@@ -1,8 +1,8 @@
 {
-  "name": "@stencil/starter",
+  "name": "sftransit",
   "private": true,
   "version": "0.0.1",
-  "description": "Stencil App Starter",
+  "description": "SF Transit",
   "files": [
     "dist/"
   ],
@@ -26,14 +26,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/stencil-app-starter.git"
+    "url": "git+https://github.com/xlozinguez/sfTransportTracker"
   },
-  "author": "Ionic Team",
+  "author": "Xavier Lozinguez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ionic-team/stencil"
+    "url": "https://github.com/xlozinguez/sfTransportTracker"
   },
-  "homepage": "https://github.com/ionic-team/stencil",
+  "homepage": "https://github.com/xlozinguez/sfTransportTracker",
   "jest": {
     "transform": {
       "^.+\\.(ts|tsx)$": "<rootDir>/node_modules/@stencil/core/testing/jest.preprocessor.js"

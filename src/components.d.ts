@@ -6,32 +6,36 @@
 
 import '@stencil/router';
 
-import { MyName as MyName } from './components/my-name/my-name';
 
-interface HTMLMyNameElement extends MyName, HTMLElement {
-}
-declare var HTMLMyNameElement: {
-  prototype: HTMLMyNameElement;
-  new (): HTMLMyNameElement;
-};
+import {
+  SfMap as SfMap
+} from './components/sf-map/sf-map';
+
 declare global {
+  interface HTMLSfMapElement extends SfMap, HTMLElement {
+  }
+  var HTMLSfMapElement: {
+    prototype: HTMLSfMapElement;
+    new (): HTMLSfMapElement;
+  };
   interface HTMLElementTagNameMap {
-      "my-name": HTMLMyNameElement;
+    "sf-map": HTMLSfMapElement;
   }
   interface ElementTagNameMap {
-      "my-name": HTMLMyNameElement;
+    "sf-map": HTMLSfMapElement;
   }
   namespace JSX {
-      interface IntrinsicElements {
-          "my-name": JSXElements.MyNameAttributes;
-      }
+    interface IntrinsicElements {
+      "sf-map": JSXElements.SfMapAttributes;
+    }
   }
   namespace JSXElements {
-      export interface MyNameAttributes extends HTMLAttributes {
-        
-          first?: any,
-          last?: any
-      }
+    export interface SfMapAttributes extends HTMLAttributes {
+      
+        longitude?: string,
+        latitude?: string,
+        radius?: string
+    }
   }
 }
 

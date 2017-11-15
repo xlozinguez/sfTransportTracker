@@ -1,6 +1,6 @@
 {
-  "name": "Stencil Starter",
-  "short_name": "Stencil",
+  "name": "SF Transit",
+  "short_name": "SFT",
   "start_url": "/",
   "display": "standalone",
   "icons": [{
