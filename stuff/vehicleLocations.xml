@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<body copyright="All data copyright San Francisco Muni 2017.">
+  <vehicle id="1406" routeTag="N" dirTag="N____I_F00" lat="37.76067" lon="-122.50021" secsSinceReport="15" predictable="true"
+    heading="86" speedKmHr="12" />
+  <vehicle id="8899" routeTag="54" dirTag="54___I_F00" lat="37.707054" lon="-122.468658" secsSinceReport="16" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="52" routeTag="61" dirTag="61___I_F00" lat="37.793571" lon="-122.397377" secsSinceReport="29" predictable="true"
+    heading="82" speedKmHr="0" />
+  <vehicle id="8830" routeTag="2" dirTag="2____I_F00" lat="37.785896" lon="-122.45726" secsSinceReport="16" predictable="true"
+    heading="75" speedKmHr="13" />
+  <vehicle id="1010" routeTag="E" dirTag="E____I_F00" lat="37.80775" lon="-122.41743" secsSinceReport="7" predictable="true"
+    heading="173" speedKmHr="0" />
+  <vehicle id="6729" routeTag="8" dirTag="8____I_F00" lat="37.776268" lon="-122.402168" secsSinceReport="16" predictable="true"
+    heading="45" speedKmHr="8" />
+  <vehicle id="8641" routeTag="33" dirTag="33___O_F00" lat="37.762962" lon="-122.446938" secsSinceReport="5" predictable="true"
+    heading="186" speedKmHr="0" />
+  <vehicle id="8202" routeTag="47" dirTag="47___I_F00" lat="37.805309" lon="-122.423363" secsSinceReport="52" predictable="true"
+    heading="75" speedKmHr="24" />
+  <vehicle id="8898" routeTag="25" dirTag="25___O_F00" lat="37.822723" lon="-122.368286" secsSinceReport="16" predictable="true"
+    heading="330" speedKmHr="60" />
+  <vehicle id="7226" routeTag="30" dirTag="30___I_S10" lat="37.805119" lon="-122.424873" secsSinceReport="52" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="6601" routeTag="14R" dirTag="14R__I_F10" lat="37.739616" lon="-122.423691" secsSinceReport="5" predictable="true"
+    heading="27" speedKmHr="0" />
+  <vehicle id="1431" routeTag="KT" dirTag="KT___I_F00" lat="37.72162" lon="-122.44734" secsSinceReport="12" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="5416" routeTag="30" dirTag="30___O_F01" lat="37.795418" lon="-122.408241" secsSinceReport="52" predictable="true"
+    heading="345" speedKmHr="23" />
+  <vehicle id="1486" routeTag="N" dirTag="N____O_F00" lat="37.79089" lon="-122.39003" secsSinceReport="19" predictable="true"
+    heading="315" speedKmHr="12" leadingVehicleId="1522" />
+  <vehicle id="8206" routeTag="47" dirTag="47___O_F00" lat="37.769604" lon="-122.41124" secsSinceReport="41" predictable="true"
+    heading="133" speedKmHr="0" />
+  <vehicle id="8181" routeTag="28" dirTag="28___I_F00" lat="37.758293" lon="-122.476616" secsSinceReport="41" predictable="true"
+    heading="345" speedKmHr="19" />
+  <vehicle id="1538" routeTag="KT" dirTag="KT___I_F00" lat="37.7479299" lon="-122.45908" secsSinceReport="12" predictable="true"
+    heading="46" speedKmHr="0" />
+  <vehicle id="1434" routeTag="N" dirTag="N____I_F00" lat="37.7606899" lon="-122.50027" secsSinceReport="19" predictable="true"
+    heading="86" speedKmHr="29" />
+  <vehicle id="7232" routeTag="5" dirTag="5____I_F00" lat="37.789749" lon="-122.400696" secsSinceReport="5" predictable="true"
+    heading="46" speedKmHr="0" />
+  <vehicle id="8326" routeTag="47" dirTag="47___O_F00" lat="37.783024" lon="-122.420914" secsSinceReport="29" predictable="true"
+    heading="172" speedKmHr="0" />
+  <vehicle id="1455" routeTag="M" dirTag="M____I_F00" lat="37.720089" lon="-122.446022" secsSinceReport="16" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="6546" routeTag="38" dirTag="38___I_F10" lat="37.782234" lon="-122.447006" secsSinceReport="5" predictable="true"
+    heading="75" speedKmHr="35" />
+  <vehicle id="8157" routeTag="19" dirTag="19___I_F00" lat="37.799171" lon="-122.422401" secsSinceReport="52" predictable="true"
+    heading="345" speedKmHr="8" />
+  <vehicle id="6628" routeTag="7" dirTag="7____O_F00" lat="37.766155" lon="-122.454865" secsSinceReport="41" predictable="true"
+    heading="255" speedKmHr="31" />
+  <vehicle id="6720" routeTag="38R" dirTag="38R__I_F00" lat="37.781082" lon="-122.460594" secsSinceReport="29" predictable="true"
+    heading="75" speedKmHr="52" />
+  <vehicle id="1411" routeTag="J" dirTag="J____O_F00" lat="37.749561" lon="-122.427292" secsSinceReport="16" predictable="true"
+    heading="176" speedKmHr="0" />
+  <vehicle id="8764" routeTag="43" dirTag="43___I_F00" lat="37.712929" lon="-122.432938" secsSinceReport="52" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="1522" routeTag="N" dirTag="N____O_F00" lat="37.7912" lon="-122.39034" secsSinceReport="15" predictable="true"
+    heading="326" speedKmHr="12" />
+  <vehicle id="5539" routeTag="31" dirTag="31___I_F00" lat="37.790478" lon="-122.399788" secsSinceReport="16" predictable="true"
+    heading="45" speedKmHr="0" />
+  <vehicle id="8811" routeTag="33" dirTag="33___I_F00" lat="37.759068" lon="-122.446442" secsSinceReport="52" predictable="true"
+    heading="360" speedKmHr="27" />
+  <vehicle id="8402" routeTag="33" dirTag="33___O_F00" lat="37.765499" lon="-122.411713" secsSinceReport="29" predictable="true"
+    heading="75" speedKmHr="29" />
+  <vehicle id="6705" routeTag="38" dirTag="38___O_S00" lat="37.790489" lon="-122.394951" secsSinceReport="41" predictable="true"
+    heading="135" speedKmHr="37" />
+  <vehicle id="8311" routeTag="28" dirTag="28___O_F00" lat="37.804962" lon="-122.42514" secsSinceReport="16" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="1544" routeTag="L" dirTag="L____O_F00" lat="37.76205" lon="-122.43623" secsSinceReport="12" predictable="true"
+    heading="243" speedKmHr="0" />
+  <vehicle id="6581" routeTag="7" dirTag="7____I_F00" lat="37.753006" lon="-122.502441" secsSinceReport="5" predictable="true"
+    heading="87" speedKmHr="0" />
+  <vehicle id="1074" routeTag="F" dirTag="F____O_F00" lat="37.76255" lon="-122.43447" secsSinceReport="5" predictable="true"
+    heading="266" speedKmHr="9" />
+  <vehicle id="8661" routeTag="33" dirTag="33___O_F00" lat="37.786938" lon="-122.45649" secsSinceReport="16" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8847" routeTag="F" dirTag="F____I_S10" lat="37.756378" lon="-122.391594" secsSinceReport="41" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="6602" routeTag="8" dirTag="8____I_F00" lat="37.797649" lon="-122.406357" secsSinceReport="29" predictable="true"
+    heading="300" speedKmHr="6" />
+  <vehicle id="6588" routeTag="8" dirTag="8____O_F00" lat="37.796124" lon="-122.408401" secsSinceReport="29" predictable="true"
+    heading="171" speedKmHr="0" />
+  <vehicle id="8649" routeTag="55" dirTag="55___O_F01" lat="37.7665099" lon="-122.394562" secsSinceReport="16" predictable="true"
+    heading="75" speedKmHr="31" />
+  <vehicle id="7228" routeTag="5" dirTag="5____I_F00" lat="37.778767" lon="-122.430626" secsSinceReport="5" predictable="true"
+    heading="75" speedKmHr="14" />
+  <vehicle id="1076" routeTag="F" dirTag="F____O_F00" lat="37.79432" lon="-122.3933" secsSinceReport="42" predictable="true"
+    heading="201" speedKmHr="9" />
+  <vehicle id="1449" routeTag="N" dirTag="N____I_F00" lat="37.76502" lon="-122.45643" secsSinceReport="23" predictable="true"
+    heading="80" speedKmHr="9" />
+  <vehicle id="6606" routeTag="14R" dirTag="14R__I_F10" lat="37.705971" lon="-122.467705" secsSinceReport="41" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="5491" routeTag="30" dirTag="30___O_F01" lat="37.777718" lon="-122.394127" secsSinceReport="16" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="5407" routeTag="30" dirTag="30___I_F01" lat="37.788307" lon="-122.410141" secsSinceReport="41" predictable="true"
+    heading="165" speedKmHr="32" />
+  <vehicle id="8722" routeTag="10" dirTag="10___O_F00" lat="37.757339" lon="-122.39801" secsSinceReport="41" predictable="true"
+    heading="177" speedKmHr="0" />
+  <vehicle id="8192" routeTag="43" dirTag="43___I_F00" lat="37.71566" lon="-122.43927" secsSinceReport="41" predictable="true"
+    heading="300" speedKmHr="0" />
+  <vehicle id="5533" routeTag="31" dirTag="31___I_F00" lat="37.776539" lon="-122.478203" secsSinceReport="5" predictable="true"
+    heading="75" speedKmHr="8" />
+  <vehicle id="1516" routeTag="N" dirTag="N____I_F00" lat="37.76003" lon="-122.50915" secsSinceReport="47" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="6717" routeTag="8" dirTag="8____I_F00" lat="37.7972449" lon="-122.405663" secsSinceReport="52" predictable="true"
+    heading="320" speedKmHr="0" />
+  <vehicle id="8163" routeTag="19" dirTag="19___O_F00" lat="37.778069" lon="-122.41394" secsSinceReport="41" predictable="true"
+    heading="135" speedKmHr="18" />
+  <vehicle id="8505" routeTag="37" dirTag="37___O_F00" lat="37.769768" lon="-122.445236" secsSinceReport="16" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="1485" routeTag="N" dirTag="N____I_F00" lat="37.787533" lon="-122.387902" secsSinceReport="11" predictable="true"
+    heading="182" speedKmHr="44" />
+  <vehicle id="14" routeTag="59" dirTag="59___O_F00" lat="37.804668" lon="-122.415123" secsSinceReport="5" predictable="true"
+    heading="347" speedKmHr="0" />
+  <vehicle id="8119" routeTag="19" dirTag="19___I_F00" lat="37.791794" lon="-122.420906" secsSinceReport="5" predictable="true"
+    heading="345" speedKmHr="8" />
+  <vehicle id="1468" routeTag="KT" dirTag="KT___O_F00" lat="37.72299" lon="-122.45176" secsSinceReport="19" predictable="true"
+    heading="88" speedKmHr="20" />
+  <vehicle id="1430" routeTag="M" dirTag="M____O_F00" lat="37.78044" lon="-122.41274" secsSinceReport="3" predictable="true"
+    heading="225" speedKmHr="0" />
+  <vehicle id="5558" routeTag="45" dirTag="45___I_F00" lat="37.795834" lon="-122.446945" secsSinceReport="16" predictable="true"
+    heading="165" speedKmHr="18" />
+  <vehicle id="8803" routeTag="22" dirTag="22___O_F00" lat="37.7645" lon="-122.428246" secsSinceReport="5" predictable="true"
+    heading="75" speedKmHr="13" />
+  <vehicle id="8840" routeTag="9" dirTag="9____I_N00" lat="37.769238" lon="-122.409561" secsSinceReport="5" predictable="true"
+    heading="270" speedKmHr="29" />
+  <vehicle id="8178" routeTag="28" dirTag="28___I_F00" lat="37.80175" lon="-122.44928" secsSinceReport="41" predictable="true"
+    heading="120" speedKmHr="61" />
+  <vehicle id="1421" routeTag="L" dirTag="L____I_F00" lat="37.74238" lon="-122.47133" secsSinceReport="15" predictable="true"
+    heading="176" speedKmHr="38" />
+  <vehicle id="8625" routeTag="18" dirTag="18___I_F00" lat="37.775661" lon="-122.49752" secsSinceReport="16" predictable="true"
+    heading="87" speedKmHr="0" />
+  <vehicle id="7213" routeTag="5" dirTag="5____I_F00" lat="37.773628" lon="-122.509911" secsSinceReport="41" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8509" routeTag="39" dirTag="39___I_F00" lat="37.8008" lon="-122.406342" secsSinceReport="16" predictable="true"
+    heading="255" speedKmHr="29" />
+  <vehicle id="1461" routeTag="M" dirTag="M____I_F00" lat="37.76243" lon="-122.43546" secsSinceReport="12" predictable="true"
+    heading="60" speedKmHr="0" />
+  <vehicle id="6599" routeTag="8" dirTag="8____O_F00" lat="37.807182" lon="-122.407219" secsSinceReport="5" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8629" routeTag="48" dirTag="48___I_F00" lat="37.746704" lon="-122.446167" secsSinceReport="41" predictable="true"
+    heading="75" speedKmHr="40" />
+  <vehicle id="8767" routeTag="10" dirTag="10___I_F00" lat="37.754185" lon="-122.406387" secsSinceReport="5" predictable="true"
+    heading="345" speedKmHr="8" />
+  <vehicle id="5578" routeTag="1" dirTag="1____O_F00" lat="37.785294" lon="-122.462547" secsSinceReport="52" predictable="true"
+    heading="255" speedKmHr="34" />
+  <vehicle id="8635" routeTag="2" dirTag="2____I_F00" lat="37.786854" lon="-122.419594" secsSinceReport="16" predictable="true"
+    heading="75" speedKmHr="24" />
+  <vehicle id="8659" routeTag="54" dirTag="54___I_F00" lat="37.724449" lon="-122.425415" secsSinceReport="41" predictable="true"
+    heading="120" speedKmHr="5" />
+  <vehicle id="5433" routeTag="30" dirTag="30___I_F01" lat="37.80238" lon="-122.413277" secsSinceReport="5" predictable="true"
+    heading="120" speedKmHr="26" />
+  <vehicle id="1056" routeTag="F" dirTag="F____O_F00" lat="37.78795" lon="-122.40354" secsSinceReport="3" predictable="true"
+    heading="225" speedKmHr="0" />
+  <vehicle id="8607" routeTag="2" dirTag="2____O_F00" lat="37.7935299" lon="-122.396095" secsSinceReport="16" predictable="true"
+    heading="228" speedKmHr="0" />
+  <vehicle id="1550" routeTag="L" dirTag="L____I_F00" lat="37.7363" lon="-122.50534" secsSinceReport="28" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="5483" routeTag="30" dirTag="30___I_F01" lat="37.776306" lon="-122.395981" secsSinceReport="41" predictable="true"
+    heading="46" speedKmHr="0" />
+  <vehicle id="6533" routeTag="38" dirTag="38___I_F10" lat="37.780201" lon="-122.479584" secsSinceReport="29" predictable="true"
+    heading="87" speedKmHr="0" />
+  <vehicle id="8831" routeTag="23" dirTag="23___I_F10" lat="37.735088" lon="-122.392982" secsSinceReport="29" predictable="true"
+    heading="120" speedKmHr="3" />
+  <vehicle id="5476" routeTag="6" dirTag="6____O_F00" lat="37.7937129" lon="-122.393799" secsSinceReport="16" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="6728" routeTag="38" dirTag="38___O_S00" lat="37.79034" lon="-122.393242" secsSinceReport="41" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="1524" routeTag="M" dirTag="M____I_F00" lat="37.78496" lon="-122.40672" secsSinceReport="12" predictable="true"
+    heading="45" speedKmHr="0" />
+  <vehicle id="5550" routeTag="24" dirTag="24___I_F00" lat="37.791862" lon="-122.439743" secsSinceReport="41" predictable="true"
+    heading="75" speedKmHr="6" />
+  <vehicle id="6589" routeTag="49" dirTag="49___I_F00" lat="37.722927" lon="-122.451889" secsSinceReport="29" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="5409" routeTag="6" dirTag="6____I_F00" lat="37.748882" lon="-122.470238" secsSinceReport="52" predictable="true"
+    heading="219" speedKmHr="0" />
+  <vehicle id="8703" routeTag="76X" dirTag="76X__I_F00" lat="37.832611" lon="-122.539207" secsSinceReport="16" predictable="true"
+    heading="195" speedKmHr="0" />
+  <vehicle id="8189" routeTag="28" dirTag="28___I_F00" lat="37.718082" lon="-122.473228" secsSinceReport="41" predictable="true"
+    heading="315" speedKmHr="10" />
+  <vehicle id="7229" routeTag="5" dirTag="5____I_F00" lat="37.775234" lon="-122.450615" secsSinceReport="29" predictable="true"
+    heading="75" speedKmHr="39" />
+  <vehicle id="6593" routeTag="7" dirTag="7____I_F00" lat="37.750984" lon="-122.5075" secsSinceReport="41" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="1547" routeTag="M" dirTag="M____I_F00" lat="37.72238" lon="-122.44707" secsSinceReport="35" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="5469" routeTag="6" dirTag="6____I_F00" lat="37.771271" lon="-122.436897" secsSinceReport="16" predictable="true"
+    heading="75" speedKmHr="13" />
+  <vehicle id="1403" routeTag="N" dirTag="N____O_F00" lat="37.77497" lon="-122.41967" secsSinceReport="6" predictable="true"
+    heading="224" speedKmHr="0" leadingVehicleId="1481" />
+  <vehicle id="6608" routeTag="8" dirTag="8____O_F00" lat="37.802174" lon="-122.411293" secsSinceReport="16" predictable="true"
+    heading="165" speedKmHr="14" />
+  <vehicle id="7230" routeTag="14" dirTag="14___I_F00" lat="37.723404" lon="-122.435699" secsSinceReport="29" predictable="true"
+    heading="30" speedKmHr="6" />
+  <vehicle id="8526" routeTag="36" dirTag="36___I_F00" lat="37.747639" lon="-122.420341" secsSinceReport="29" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8127" routeTag="28" dirTag="28___I_F00" lat="37.706383" lon="-122.467728" secsSinceReport="41" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="57" routeTag="61" lat="37.792988" lon="-122.397171" secsSinceReport="41" predictable="true" heading="218" speedKmHr="0"
+  />
+  <vehicle id="8227" routeTag="19" dirTag="19___I_F00" lat="37.74921" lon="-122.396996" secsSinceReport="29" predictable="true"
+    heading="330" speedKmHr="8" />
+  <vehicle id="6611" routeTag="14R" dirTag="14R__O_F10" lat="37.774216" lon="-122.417427" secsSinceReport="41" predictable="true"
+    heading="222" speedKmHr="0" />
+  <vehicle id="8610" routeTag="2" dirTag="2____O_F00" lat="37.792084" lon="-122.394661" secsSinceReport="29" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8654" routeTag="21" dirTag="21___O_F00" lat="37.777443" lon="-122.419029" secsSinceReport="41" predictable="true"
+    heading="255" speedKmHr="23" />
+  <vehicle id="5462" routeTag="6" dirTag="6____I_F00" lat="37.786488" lon="-122.404907" secsSinceReport="29" predictable="true"
+    heading="45" speedKmHr="2" />
+  <vehicle id="5627" routeTag="1" dirTag="1____O_F00" lat="37.794212" lon="-122.400513" secsSinceReport="5" predictable="true"
+    heading="261" speedKmHr="0" />
+  <vehicle id="8901" routeTag="29" dirTag="29___I_F00" lat="37.7798609" lon="-122.484673" secsSinceReport="5" predictable="true"
+    heading="357" speedKmHr="0" />
+  <vehicle id="8620" routeTag="25" dirTag="25___I_F00" lat="37.789127" lon="-122.392212" secsSinceReport="41" predictable="true"
+    heading="45" speedKmHr="0" />
+  <vehicle id="8632" routeTag="9" dirTag="9____I_N00" lat="37.724888" lon="-122.402473" secsSinceReport="52" predictable="true"
+    heading="330" speedKmHr="8" />
+  <vehicle id="7245" routeTag="5" dirTag="5____O_F00" lat="37.782372" lon="-122.410255" secsSinceReport="5" predictable="true"
+    heading="210" speedKmHr="16" />
+  <vehicle id="8743" routeTag="43" dirTag="43___O_F00" lat="37.76236" lon="-122.462807" secsSinceReport="5" predictable="true"
+    heading="272" speedKmHr="0" />
+  <vehicle id="8502" routeTag="37" dirTag="37___I_F00" lat="37.762428" lon="-122.435471" secsSinceReport="52" predictable="true"
+    heading="63" speedKmHr="0" />
+  <vehicle id="8225" routeTag="19" dirTag="19___I_F00" lat="37.729828" lon="-122.371948" secsSinceReport="52" predictable="true"
+    heading="300" speedKmHr="40" />
+  <vehicle id="1073" routeTag="F" dirTag="F____I_F00" lat="37.80771" lon="-122.41731" secsSinceReport="28" predictable="true"
+    heading="173" speedKmHr="0" />
+  <vehicle id="5570" routeTag="1" dirTag="1____O_F00" lat="37.78735" lon="-122.446518" secsSinceReport="16" predictable="true"
+    heading="255" speedKmHr="16" />
+  <vehicle id="8750" routeTag="29" dirTag="29___I_F00" lat="37.723263" lon="-122.441757" secsSinceReport="5" predictable="true"
+    heading="255" speedKmHr="40" />
+  <vehicle id="5540" routeTag="45" dirTag="45___O_F00" lat="37.7975769" lon="-122.431938" secsSinceReport="5" predictable="true"
+    heading="261" speedKmHr="0" />
+  <vehicle id="5534" routeTag="1" dirTag="1____I_F00" lat="37.790455" lon="-122.429161" secsSinceReport="5" predictable="true"
+    heading="75" speedKmHr="21" />
+  <vehicle id="8773" routeTag="43" dirTag="43___O_F00" lat="37.773193" lon="-122.446075" secsSinceReport="29" predictable="true"
+    heading="170" speedKmHr="0" />
+  <vehicle id="1537" routeTag="J" dirTag="J____O_F00" lat="37.79291" lon="-122.39674" secsSinceReport="5" predictable="true"
+    heading="225" speedKmHr="0" />
+  <vehicle id="5572" routeTag="1" dirTag="1____O_F00" lat="37.792782" lon="-122.410873" secsSinceReport="16" predictable="true"
+    heading="255" speedKmHr="14" />
+  <vehicle id="6585" routeTag="8" dirTag="8____I_F00" lat="37.727943" lon="-122.403709" secsSinceReport="5" predictable="true"
+    heading="342" speedKmHr="0" />
+  <vehicle id="1460" routeTag="KT" dirTag="KT___O_F00" lat="37.70915" lon="-122.40492" secsSinceReport="7" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8893" routeTag="9" dirTag="9____I_N00" lat="37.755306" lon="-122.406471" secsSinceReport="41" predictable="true"
+    heading="357" speedKmHr="0" />
+  <vehicle id="8871" routeTag="29" dirTag="29___I_F00" lat="37.721432" lon="-122.472351" secsSinceReport="41" predictable="true"
+    heading="2" speedKmHr="0" />
+  <vehicle id="8829" routeTag="54" dirTag="54___I_F00" lat="37.713177" lon="-122.45607" secsSinceReport="16" predictable="true"
+    heading="345" speedKmHr="19" />
+  <vehicle id="7250" routeTag="30" dirTag="30___I_S10" lat="37.805138" lon="-122.424622" secsSinceReport="52" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8851" routeTag="54" dirTag="54___O_F00" lat="37.73991" lon="-122.388489" secsSinceReport="5" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8504" routeTag="52" dirTag="52___I_F00" lat="37.732704" lon="-122.431923" secsSinceReport="16" predictable="true"
+    heading="345" speedKmHr="5" />
+  <vehicle id="6616" routeTag="38" dirTag="38___I_S00" lat="37.780895" lon="-122.464432" secsSinceReport="52" predictable="true"
+    heading="75" speedKmHr="24" />
+  <vehicle id="1479" routeTag="N" dirTag="N____I_F00" lat="37.761654" lon="-122.477562" secsSinceReport="5" predictable="true"
+    heading="75" speedKmHr="16" />
+  <vehicle id="11" routeTag="60" dirTag="60___I_F00" lat="37.791862" lon="-122.409172" secsSinceReport="29" predictable="true"
+    heading="165" speedKmHr="10" />
+  <vehicle id="8852" routeTag="55" dirTag="55___I_F00" lat="37.76659" lon="-122.421417" secsSinceReport="41" predictable="true"
+    heading="255" speedKmHr="19" />
+  <vehicle id="6609" routeTag="38R" dirTag="38R__I_F00" lat="37.781857" lon="-122.451309" secsSinceReport="5" predictable="true"
+    heading="81" speedKmHr="0" />
+  <vehicle id="8770" routeTag="43" dirTag="43___I_F00" lat="37.731606" lon="-122.453316" secsSinceReport="52" predictable="true"
+    heading="263" speedKmHr="0" />
+  <vehicle id="1471" routeTag="KT" dirTag="KT___O_F00" lat="37.788212" lon="-122.387886" secsSinceReport="29" predictable="true"
+    heading="345" speedKmHr="34" />
+  <vehicle id="8212" routeTag="10" dirTag="10___O_F00" lat="37.796337" lon="-122.401901" secsSinceReport="41" predictable="true"
+    heading="165" speedKmHr="21" />
+  <vehicle id="1511" routeTag="M" dirTag="M____I_F00" lat="37.7168599" lon="-122.47225" secsSinceReport="19" predictable="true"
+    heading="324" speedKmHr="0" />
+  <vehicle id="5477" routeTag="30" dirTag="30___I_S10" lat="37.797382" lon="-122.408623" secsSinceReport="52" predictable="true"
+    heading="165" speedKmHr="23" />
+  <vehicle id="5609" routeTag="45" dirTag="45___I_F00" lat="37.7994" lon="-122.409042" secsSinceReport="5" predictable="true"
+    heading="120" speedKmHr="5" />
+  <vehicle id="5425" routeTag="30" dirTag="30___O_F01" lat="37.786633" lon="-122.402428" secsSinceReport="29" predictable="true"
+    heading="313" speedKmHr="0" />
+  <vehicle id="6562" routeTag="14R" dirTag="14R__O_F10" lat="37.787872" lon="-122.400269" secsSinceReport="16" predictable="true"
+    heading="225" speedKmHr="0" />
+  <vehicle id="6571" routeTag="8" dirTag="8____I_F00" lat="37.72364" lon="-122.45266" secsSinceReport="16" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="6541" routeTag="8" dirTag="8____I_F00" lat="37.791302" lon="-122.404205" secsSinceReport="29" predictable="true"
+    heading="351" speedKmHr="0" />
+  <vehicle id="1062" routeTag="F" dirTag="F____O_F00" lat="37.76456" lon="-122.43268" secsSinceReport="39" predictable="true"
+    heading="224" speedKmHr="0" />
+  <vehicle id="6572" routeTag="49" dirTag="49___O_F00" lat="37.804901" lon="-122.42543" secsSinceReport="41" predictable="true"
+    heading="165" speedKmHr="14" />
+  <vehicle id="8662" routeTag="9" dirTag="9____O_N00" lat="37.784187" lon="-122.407875" secsSinceReport="5" predictable="true"
+    heading="225" speedKmHr="0" />
+  <vehicle id="5565" routeTag="31" dirTag="31___O_F00" lat="37.774845" lon="-122.50592" secsSinceReport="5" predictable="true"
+    heading="165" speedKmHr="35" />
+  <vehicle id="1518" routeTag="J" dirTag="J____I_F00" lat="37.76432" lon="-122.428665" secsSinceReport="29" predictable="true"
+    heading="354" speedKmHr="0" />
+  <vehicle id="6617" routeTag="8" dirTag="8____O_F00" lat="37.71286" lon="-122.431938" secsSinceReport="5" predictable="true"
+    heading="270" speedKmHr="21" />
+  <vehicle id="8755" routeTag="28" dirTag="28___I_F00" lat="37.803577" lon="-122.424911" secsSinceReport="5" predictable="true"
+    heading="345" speedKmHr="27" />
+  <vehicle id="1546" routeTag="M" dirTag="M____I_F00" lat="37.75153" lon="-122.3845" secsSinceReport="23" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8721" routeTag="43" dirTag="43___I_F00" lat="37.7995" lon="-122.438232" secsSinceReport="52" predictable="true"
+    heading="75" speedKmHr="31" />
+  <vehicle id="8606" routeTag="18" dirTag="18___I_F00" lat="37.735577" lon="-122.504028" secsSinceReport="29" predictable="true"
+    heading="270" speedKmHr="21" />
+  <vehicle id="8657" routeTag="44" dirTag="44___O_F00" lat="37.784843" lon="-122.465233" secsSinceReport="52" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="5615" routeTag="1" dirTag="1____O_F00" lat="37.792389" lon="-122.41404" secsSinceReport="29" predictable="true"
+    heading="255" speedKmHr="21" />
+  <vehicle id="8864" routeTag="9" dirTag="9____I_N00" lat="37.709404" lon="-122.407181" secsSinceReport="5" predictable="true"
+    heading="105" speedKmHr="16" />
+  <vehicle id="5548" routeTag="45" dirTag="45___O_F00" lat="37.776817" lon="-122.395386" secsSinceReport="5" predictable="true"
+    heading="30" speedKmHr="6" />
+  <vehicle id="1499" routeTag="M" dirTag="M____I_F00" lat="37.73875" lon="-122.46811" secsSinceReport="15" predictable="true"
+    heading="43" speedKmHr="22" />
+  <vehicle id="8523" routeTag="36" dirTag="36___O_F00" lat="37.733673" lon="-122.448929" secsSinceReport="5" predictable="true"
+    heading="165" speedKmHr="31" />
+  <vehicle id="5557" routeTag="3" dirTag="3____I_F00" lat="37.78759" lon="-122.446953" secsSinceReport="16" predictable="true"
+    heading="170" speedKmHr="0" />
+  <vehicle id="5451" routeTag="30" dirTag="30___O_S10" lat="37.789444" lon="-122.403816" secsSinceReport="5" predictable="true"
+    heading="350" speedKmHr="0" />
+  <vehicle id="8817" routeTag="57" dirTag="57___O_F00" lat="37.740955" lon="-122.465614" secsSinceReport="5" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8440" routeTag="22" dirTag="22___I_F00" lat="37.775112" lon="-122.431038" secsSinceReport="29" predictable="true"
+    heading="345" speedKmHr="26" />
+  <vehicle id="8844" routeTag="23" dirTag="23___O_F10" lat="37.733482" lon="-122.428841" secsSinceReport="16" predictable="true"
+    heading="255" speedKmHr="34" />
+  <vehicle id="8518" routeTag="37" dirTag="37___O_F00" lat="37.765865" lon="-122.431213" secsSinceReport="52" predictable="true"
+    heading="225" speedKmHr="19" />
+  <vehicle id="8753" routeTag="47" dirTag="47___O_F00" lat="37.807598" lon="-122.412247" secsSinceReport="16" predictable="true"
+    heading="355" speedKmHr="0" />
+  <vehicle id="6713" routeTag="38" dirTag="38___I_S00" lat="37.784527" lon="-122.422821" secsSinceReport="52" predictable="true"
+    heading="75" speedKmHr="24" />
+  <vehicle id="1504" routeTag="L" dirTag="L____I_F00" lat="37.74254" lon="-122.48786" secsSinceReport="7" predictable="true"
+    heading="85" speedKmHr="5" />
+  <vehicle id="6550" routeTag="7" dirTag="7____O_F00" lat="37.7893789" lon="-122.393448" secsSinceReport="41" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="6610" routeTag="8" dirTag="8____I_F00" lat="37.715698" lon="-122.439682" secsSinceReport="29" predictable="true"
+    heading="124" speedKmHr="0" />
+  <vehicle id="6709" routeTag="14R" dirTag="14R__I_F10" lat="37.76841" lon="-122.419975" secsSinceReport="52" predictable="true"
+    heading="345" speedKmHr="32" />
+  <vehicle id="8870" routeTag="44" dirTag="44___O_F00" lat="37.758499" lon="-122.464035" secsSinceReport="5" predictable="true"
+    heading="89" speedKmHr="0" />
+  <vehicle id="5447" routeTag="6" dirTag="6____I_F00" lat="37.748871" lon="-122.470726" secsSinceReport="16" predictable="true"
+    heading="219" speedKmHr="0" />
+  <vehicle id="7216" routeTag="14" dirTag="14___I_F00" lat="37.710629" lon="-122.447823" secsSinceReport="16" predictable="true"
+    heading="45" speedKmHr="37" />
+  <vehicle id="8645" routeTag="F" dirTag="F____O_F00" lat="37.80801" lon="-122.409424" secsSinceReport="52" predictable="true"
+    heading="75" speedKmHr="3" />
+  <vehicle id="8859" routeTag="29" dirTag="29___O_F00" lat="37.791935" lon="-122.481735" secsSinceReport="5" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8863" routeTag="22" dirTag="22___I_F00" lat="37.76479" lon="-122.403366" secsSinceReport="16" predictable="true"
+    heading="255" speedKmHr="2" />
+  <vehicle id="5594" routeTag="45" dirTag="45___O_F00" lat="37.799629" lon="-122.409058" secsSinceReport="29" predictable="true"
+    heading="345" speedKmHr="11" />
+  <vehicle id="6715" routeTag="38R" dirTag="38R__O_F00" lat="37.780811" lon="-122.471123" secsSinceReport="41" predictable="true"
+    heading="255" speedKmHr="18" />
+  <vehicle id="6624" routeTag="14R" dirTag="14R__O_F10" lat="37.760349" lon="-122.419266" secsSinceReport="16" predictable="true"
+    heading="176" speedKmHr="0" />
+  <vehicle id="8747" routeTag="48" dirTag="48___O_F00" lat="37.7516589" lon="-122.428368" secsSinceReport="5" predictable="true"
+    heading="255" speedKmHr="8" />
+  <vehicle id="6603" routeTag="38R" dirTag="38R__O_F00" lat="37.787552" lon="-122.40699" secsSinceReport="52" predictable="true"
+    heading="255" speedKmHr="23" />
+  <vehicle id="1401" routeTag="N" dirTag="N____I_F00" lat="37.775345" lon="-122.395409" secsSinceReport="16" predictable="true"
+    heading="225" speedKmHr="2" leadingVehicleId="1490" />
+  <vehicle id="6708" routeTag="38R" dirTag="38R__O_F00" lat="37.791256" lon="-122.39901" secsSinceReport="41" predictable="true"
+    heading="226" speedKmHr="0" />
+  <vehicle id="1450" routeTag="KT" dirTag="KT___I_F00" lat="37.78965" lon="-122.40074" secsSinceReport="6" predictable="true"
+    heading="44" speedKmHr="0" />
+  <vehicle id="8117" routeTag="19" dirTag="19___I_F00" lat="37.776123" lon="-122.407051" secsSinceReport="5" predictable="true"
+    heading="300" speedKmHr="37" />
+  <vehicle id="8820" routeTag="21" dirTag="21___I_F00" lat="37.778137" lon="-122.418198" secsSinceReport="5" predictable="true"
+    heading="165" speedKmHr="24" />
+  <vehicle id="6584" routeTag="7" dirTag="7____O_F00" lat="37.775398" lon="-122.419022" secsSinceReport="41" predictable="true"
+    heading="225" speedKmHr="0" />
+  <vehicle id="5639" routeTag="31" dirTag="31___O_F00" lat="37.787365" lon="-122.403839" secsSinceReport="41" predictable="true"
+    heading="210" speedKmHr="16" />
+  <vehicle id="8109" routeTag="F" dirTag="F____I_F00" lat="37.763821" lon="-122.433563" secsSinceReport="16" predictable="true"
+    heading="49" speedKmHr="0" />
+  <vehicle id="5503" routeTag="45" dirTag="45___I_F00" lat="37.797173" lon="-122.447197" secsSinceReport="52" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="6623" routeTag="38" dirTag="38___I_F10" lat="37.785339" lon="-122.416557" secsSinceReport="16" predictable="true"
+    heading="75" speedKmHr="11" />
+  <vehicle id="1072" routeTag="F" dirTag="F____I_F00" lat="37.78733" lon="-122.40356" secsSinceReport="3" predictable="true"
+    heading="45" speedKmHr="0" />
+  <vehicle id="6579" routeTag="14R" dirTag="14R__O_F10" lat="37.791962" lon="-122.39492" secsSinceReport="29" predictable="true"
+    heading="276" speedKmHr="0" />
+  <vehicle id="1512" routeTag="KT" dirTag="KT___I_F00" lat="37.72106" lon="-122.44707" secsSinceReport="15" predictable="true"
+    heading="122" speedKmHr="14" />
+  <vehicle id="1533" routeTag="KT" dirTag="KT___I_F00" lat="37.78375" lon="-122.38816" secsSinceReport="15" predictable="true"
+    heading="183" speedKmHr="22" />
+  <vehicle id="8345" routeTag="19" dirTag="19___O_F00" lat="37.747345" lon="-122.396294" secsSinceReport="29" predictable="true"
+    heading="223" speedKmHr="0" />
+  <vehicle id="1517" routeTag="KT" dirTag="KT___O_F00" lat="37.70798" lon="-122.40556" secsSinceReport="35" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="1416" routeTag="J" dirTag="J____I_F00" lat="37.72295" lon="-122.446327" secsSinceReport="16" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8862" routeTag="29" dirTag="29___O_F00" lat="37.765472" lon="-122.477837" secsSinceReport="5" predictable="true"
+    heading="267" speedKmHr="0" />
+  <vehicle id="1895" routeTag="F" dirTag="F____O_F00" lat="37.78125" lon="-122.41158" secsSinceReport="39" predictable="true"
+    heading="225" speedKmHr="3" />
+  <vehicle id="7237" routeTag="14" dirTag="14___I_F00" lat="37.763062" lon="-122.419472" secsSinceReport="5" predictable="true"
+    heading="345" speedKmHr="21" />
+  <vehicle id="5601" routeTag="24" dirTag="24___I_F00" lat="37.740967" lon="-122.422623" secsSinceReport="16" predictable="true"
+    heading="297" speedKmHr="0" />
+  <vehicle id="1453" routeTag="KT" dirTag="KT___O_F00" lat="37.759998" lon="-122.388519" secsSinceReport="52" predictable="true"
+    heading="345" speedKmHr="21" />
+  <vehicle id="8426" routeTag="2" dirTag="2____O_F00" lat="37.785221" lon="-122.446434" secsSinceReport="16" predictable="true"
+    heading="348" speedKmHr="0" />
+  <vehicle id="5553" routeTag="1" dirTag="1____O_F00" lat="37.79538" lon="-122.397224" secsSinceReport="29" predictable="true"
+    heading="75" speedKmHr="8" />
+  <vehicle id="8778" routeTag="12" dirTag="12___O_F00" lat="37.752171" lon="-122.419052" secsSinceReport="5" predictable="true"
+    heading="75" speedKmHr="5" />
+  <vehicle id="5432" routeTag="30" dirTag="30___O_F01" lat="37.805294" lon="-122.42408" secsSinceReport="16" predictable="true"
+    heading="258" speedKmHr="0" />
+  <vehicle id="1490" routeTag="N" dirTag="N____I_F00" lat="37.77549" lon="-122.395218" secsSinceReport="5" predictable="true"
+    heading="225" speedKmHr="0" />
+  <vehicle id="6723" routeTag="49" dirTag="49___I_F00" lat="37.772156" lon="-122.419098" secsSinceReport="16" predictable="true"
+    heading="20" speedKmHr="0" />
+  <vehicle id="8302" routeTag="19" dirTag="19___O_F00" lat="37.783321" lon="-122.419296" secsSinceReport="29" predictable="true"
+    heading="165" speedKmHr="27" />
+  <vehicle id="8120" routeTag="28" dirTag="28___O_F00" lat="37.807434" lon="-122.411079" secsSinceReport="5" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8517" routeTag="35" dirTag="35___O_F01" lat="37.748077" lon="-122.436066" secsSinceReport="52" predictable="true"
+    heading="165" speedKmHr="13" />
+  <vehicle id="1500" routeTag="N" dirTag="N____O_F00" lat="37.720268" lon="-122.445938" secsSinceReport="52" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="1539" routeTag="N" dirTag="N____O_F00" lat="37.76952" lon="-122.42893" secsSinceReport="7" predictable="true"
+    heading="266" speedKmHr="0" />
+  <vehicle id="6545" routeTag="38R" dirTag="38R__O_F00" lat="37.779621" lon="-122.49688" secsSinceReport="5" predictable="true"
+    heading="255" speedKmHr="32" />
+  <vehicle id="6625" routeTag="49" dirTag="49___O_F00" lat="37.760624" lon="-122.419296" secsSinceReport="52" predictable="true"
+    heading="165" speedKmHr="18" />
+  <vehicle id="7222" routeTag="5" dirTag="5____I_F00" lat="37.773762" lon="-122.509911" secsSinceReport="29" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="6553" routeTag="38" dirTag="38___I_S00" lat="37.779655" lon="-122.491631" secsSinceReport="41" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="13" routeTag="59" lat="37.784901" lon="-122.408363" secsSinceReport="5" predictable="true" heading="171" speedKmHr="0"
+  />
+  <vehicle id="6620" routeTag="8" dirTag="8____O_F00" lat="37.711033" lon="-122.426216" secsSinceReport="5" predictable="true"
+    heading="285" speedKmHr="39" />
+  <vehicle id="6730" routeTag="38R" dirTag="38R__I_F00" lat="37.78014" lon="-122.482193" secsSinceReport="41" predictable="true"
+    heading="75" speedKmHr="42" />
+  <vehicle id="5596" routeTag="24" dirTag="24___O_F00" lat="37.785072" lon="-122.439934" secsSinceReport="29" predictable="true"
+    heading="171" speedKmHr="0" />
+  <vehicle id="6596" routeTag="49" dirTag="49___O_F00" lat="37.804939" lon="-122.425278" secsSinceReport="41" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="5563" routeTag="1" dirTag="1____O_F00" lat="37.785778" lon="-122.458763" secsSinceReport="52" predictable="true"
+    heading="260" speedKmHr="0" />
+  <vehicle id="1402" routeTag="KT" dirTag="KT___O_F00" lat="37.74138" lon="-122.46554" secsSinceReport="12" predictable="true"
+    heading="214" speedKmHr="0" />
+  <vehicle id="6725" routeTag="7" dirTag="7____I_F00" lat="37.7842709" lon="-122.407646" secsSinceReport="29" predictable="true"
+    heading="45" speedKmHr="5" />
+  <vehicle id="8511" routeTag="39" dirTag="39___O_F00" lat="37.808105" lon="-122.408852" secsSinceReport="52" predictable="true"
+    heading="303" speedKmHr="0" />
+  <vehicle id="8837" routeTag="57" dirTag="57___I_F00" lat="37.73365" lon="-122.496902" secsSinceReport="16" predictable="true"
+    heading="210" speedKmHr="26" />
+  <vehicle id="1459" routeTag="M" dirTag="M____I_F00" lat="37.7217" lon="-122.47517" secsSinceReport="7" predictable="true"
+    heading="2" speedKmHr="0" />
+  <vehicle id="8887" routeTag="29" dirTag="29___O_F00" lat="37.721134" lon="-122.402245" secsSinceReport="5" predictable="true"
+    heading="60" speedKmHr="32" />
+  <vehicle id="8609" routeTag="22" dirTag="22___O_D00" lat="37.760872" lon="-122.389549" secsSinceReport="41" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8338" routeTag="10" dirTag="10___I_F00" lat="37.797493" lon="-122.402657" secsSinceReport="52" predictable="true"
+    heading="255" speedKmHr="24" />
+  <vehicle id="5445" routeTag="6" dirTag="6____O_F00" lat="37.764828" lon="-122.450134" secsSinceReport="29" predictable="true"
+    heading="255" speedKmHr="29" />
+  <vehicle id="1015" routeTag="E" dirTag="E____O_F00" lat="37.79481" lon="-122.3937" secsSinceReport="4" predictable="true"
+    heading="144" speedKmHr="14" />
+  <vehicle id="5630" routeTag="24" dirTag="24___O_F00" lat="37.742329" lon="-122.422325" secsSinceReport="5" predictable="true"
+    heading="86" speedKmHr="0" />
+  <vehicle id="6714" routeTag="14R" dirTag="14R__I_F10" lat="37.705124" lon="-122.467751" secsSinceReport="5" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8708" routeTag="28" dirTag="28___O_F00" lat="37.803471" lon="-122.452019" secsSinceReport="52" predictable="true"
+    heading="270" speedKmHr="71" />
+  <vehicle id="7236" routeTag="5" dirTag="5____I_F00" lat="37.772621" lon="-122.481781" secsSinceReport="5" predictable="true"
+    heading="75" speedKmHr="34" />
+  <vehicle id="8858" routeTag="29" dirTag="29___O_F00" lat="37.72694" lon="-122.476288" secsSinceReport="5" predictable="true"
+    heading="94" speedKmHr="0" />
+  <vehicle id="7244" routeTag="14" dirTag="14___O_F00" lat="37.712978" lon="-122.444542" secsSinceReport="29" predictable="true"
+    heading="220" speedKmHr="0" />
+  <vehicle id="6622" routeTag="49" dirTag="49___I_F00" lat="37.72364" lon="-122.45266" secsSinceReport="29" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="1445" routeTag="L" dirTag="L____I_F00" lat="37.7673" lon="-122.42903" secsSinceReport="7" predictable="true"
+    heading="45" speedKmHr="0" />
+  <vehicle id="8660" routeTag="44" dirTag="44___I_F00" lat="37.729004" lon="-122.416039" secsSinceReport="41" predictable="true"
+    heading="240" speedKmHr="8" />
+  <vehicle id="8522" routeTag="52" dirTag="52___O_F00" lat="37.748016" lon="-122.458923" secsSinceReport="52" predictable="true"
+    heading="322" speedKmHr="0" />
+  <vehicle id="1071" routeTag="F" dirTag="F____I_F00" lat="37.7712999" lon="-122.42409" secsSinceReport="12" predictable="true"
+    heading="45" speedKmHr="22" />
+  <vehicle id="1057" routeTag="F" dirTag="F____I_F00" lat="37.79407" lon="-122.39348" secsSinceReport="31" predictable="true"
+    heading="43" speedKmHr="5" />
+  <vehicle id="8153" routeTag="43" dirTag="43___O_F00" lat="37.709167" lon="-122.434593" secsSinceReport="52" predictable="true"
+    heading="150" speedKmHr="29" />
+  <vehicle id="8529" routeTag="67" dirTag="67___O_F00" lat="37.746498" lon="-122.413605" secsSinceReport="29" predictable="true"
+    heading="165" speedKmHr="31" />
+  <vehicle id="6537" routeTag="38" dirTag="38___O_F10" lat="37.789967" lon="-122.392761" secsSinceReport="5" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8809" routeTag="44" dirTag="44___O_F00" lat="37.7286" lon="-122.426323" secsSinceReport="29" predictable="true"
+    heading="88" speedKmHr="0" />
+  <vehicle id="1458" routeTag="N" dirTag="N____O_F00" lat="37.765554" lon="-122.452188" secsSinceReport="27" predictable="true"
+    heading="260" speedKmHr="17" leadingVehicleId="1545" />
+  <vehicle id="8842" routeTag="44" dirTag="44___I_F00" lat="37.733551" lon="-122.379997" secsSinceReport="52" predictable="true"
+    heading="195" speedKmHr="8" />
+  <vehicle id="1466" routeTag="KT" dirTag="KT___I_F00" lat="37.77903" lon="-122.41419" secsSinceReport="11" predictable="true"
+    heading="45" speedKmHr="0" />
+  <vehicle id="5611" routeTag="45" dirTag="45___I_F00" lat="37.782494" lon="-122.406281" secsSinceReport="16" predictable="true"
+    heading="135" speedKmHr="26" />
+  <vehicle id="5509" routeTag="24" dirTag="24___I_F00" lat="37.784" lon="-122.439598" secsSinceReport="52" predictable="true"
+    heading="345" speedKmHr="8" />
+  <vehicle id="1409" routeTag="N" dirTag="N____I_F00" lat="37.76956" lon="-122.42706" secsSinceReport="7" predictable="true"
+    heading="87" speedKmHr="0" leadingVehicleId="1464" />
+  <vehicle id="5446" routeTag="30" dirTag="30___I_F01" lat="37.799976" lon="-122.442871" secsSinceReport="5" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="1476" routeTag="J" dirTag="J____O_F00" lat="37.7930599" lon="-122.3965" secsSinceReport="12" predictable="true"
+    heading="44" speedKmHr="0" />
+  <vehicle id="8746" routeTag="23" dirTag="23___I_F10" lat="37.731518" lon="-122.445061" secsSinceReport="52" predictable="true"
+    heading="75" speedKmHr="50" />
+  <vehicle id="8648" routeTag="21" dirTag="21___I_F00" lat="37.77491" lon="-122.45311" secsSinceReport="41" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="5497" routeTag="3" dirTag="3____I_F00" lat="37.788898" lon="-122.40406" secsSinceReport="52" predictable="true"
+    heading="79" speedKmHr="0" />
+  <vehicle id="8741" routeTag="43" dirTag="43___I_F00" lat="37.779106" lon="-122.447121" secsSinceReport="41" predictable="true"
+    heading="360" speedKmHr="2" />
+  <vehicle id="8827" routeTag="22" dirTag="22___I_F00" lat="37.797043" lon="-122.435638" secsSinceReport="29" predictable="true"
+    heading="75" speedKmHr="5" />
+  <vehicle id="6614" routeTag="7" dirTag="7____O_F00" lat="37.788132" lon="-122.403214" secsSinceReport="5" predictable="true"
+    heading="225" speedKmHr="0" />
+  <vehicle id="8646" routeTag="33" dirTag="33___I_F00" lat="37.75135" lon="-122.406693" secsSinceReport="29" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="7256" routeTag="5" dirTag="5____O_F00" lat="37.7784959" lon="-122.433235" secsSinceReport="5" predictable="true"
+    heading="255" speedKmHr="18" />
+  <vehicle id="1437" routeTag="M" dirTag="M____I_F00" lat="37.7515" lon="-122.38467" secsSinceReport="15" predictable="true"
+    heading="218" speedKmHr="1" />
+  <vehicle id="8749" routeTag="F" dirTag="F____I_F00" lat="37.781944" lon="-122.41066" secsSinceReport="16" predictable="true"
+    heading="45" speedKmHr="6" />
+  <vehicle id="5595" routeTag="1" dirTag="1____I_F00" lat="37.779846" lon="-122.492889" secsSinceReport="16" predictable="true"
+    heading="269" speedKmHr="0" />
+  <vehicle id="1489" routeTag="J" dirTag="J____I_F00" lat="37.7253" lon="-122.44278" secsSinceReport="28" predictable="true"
+    heading="33" speedKmHr="37" />
+  <vehicle id="1425" routeTag="KT" dirTag="KT___I_F00" lat="37.72901" lon="-122.39281" secsSinceReport="4" predictable="true"
+    heading="196" speedKmHr="25" />
+  <vehicle id="16" routeTag="59" dirTag="59___I_F00" lat="37.787201" lon="-122.408211" secsSinceReport="41" predictable="true"
+    heading="150" speedKmHr="13" />
+  <vehicle id="5487" routeTag="30" dirTag="30___O_S10" lat="37.805401" lon="-122.423019" secsSinceReport="16" predictable="true"
+    heading="255" speedKmHr="23" />
+  <vehicle id="5453" routeTag="6" dirTag="6____I_F00" lat="37.762226" lon="-122.464287" secsSinceReport="16" predictable="true"
+    heading="89" speedKmHr="0" />
+  <vehicle id="5419" routeTag="30" dirTag="30___O_S10" lat="37.798328" lon="-122.408791" secsSinceReport="16" predictable="true"
+    heading="345" speedKmHr="21" />
+  <vehicle id="8652" routeTag="22" dirTag="22___I_F00" lat="37.765388" lon="-122.414871" secsSinceReport="41" predictable="true"
+    heading="255" speedKmHr="32" />
+  <vehicle id="6724" routeTag="38" dirTag="38___O_S00" lat="37.78191" lon="-122.452835" secsSinceReport="41" predictable="true"
+    heading="255" speedKmHr="27" />
+  <vehicle id="5556" routeTag="45" dirTag="45___O_F00" lat="37.785473" lon="-122.401031" secsSinceReport="16" predictable="true"
+    heading="315" speedKmHr="21" />
+  <vehicle id="5450" routeTag="6" dirTag="6____I_F00" lat="37.773071" lon="-122.422478" secsSinceReport="5" predictable="true"
+    heading="81" speedKmHr="0" />
+  <vehicle id="6594" routeTag="8" dirTag="8____I_F00" lat="37.723743" lon="-122.452621" secsSinceReport="16" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="6615" routeTag="38R" dirTag="38R__I_F00" lat="37.7791179" lon="-122.509453" secsSinceReport="41" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="6595" routeTag="14R" dirTag="14R__I_F10" lat="37.782421" lon="-122.406807" secsSinceReport="16" predictable="true"
+    heading="44" speedKmHr="0" />
+  <vehicle id="7239" routeTag="5" dirTag="5____I_F00" lat="37.791672" lon="-122.396797" secsSinceReport="16" predictable="true"
+    heading="133" speedKmHr="0" />
+  <vehicle id="1501" routeTag="N" dirTag="N____I_F00" lat="37.78881" lon="-122.3881" secsSinceReport="23" predictable="true"
+    heading="166" speedKmHr="27" leadingVehicleId="1485" />
+  <vehicle id="6532" routeTag="38R" dirTag="38R__O_F00" lat="37.789822" lon="-122.394058" secsSinceReport="41" predictable="true"
+    heading="135" speedKmHr="23" />
+  <vehicle id="6612" routeTag="8" dirTag="8____O_F00" lat="37.712273" lon="-122.41082" secsSinceReport="5" predictable="true"
+    heading="285" speedKmHr="27" />
+  <vehicle id="5607" routeTag="31" dirTag="31___O_F00" lat="37.779961" lon="-122.438889" secsSinceReport="5" predictable="true"
+    heading="165" speedKmHr="21" />
+  <vehicle id="5560" routeTag="3" dirTag="3____O_F00" lat="37.788052" lon="-122.418289" secsSinceReport="41" predictable="true"
+    heading="255" speedKmHr="6" />
+  <vehicle id="8857" routeTag="29" dirTag="29___O_F00" lat="37.792015" lon="-122.481567" secsSinceReport="5" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8621" routeTag="F" dirTag="F____O_S00" lat="37.781139" lon="-122.411751" secsSinceReport="41" predictable="true"
+    heading="225" speedKmHr="0" />
+  <vehicle id="8330" routeTag="47" dirTag="47___O_F00" lat="37.801628" lon="-122.424736" secsSinceReport="5" predictable="true"
+    heading="165" speedKmHr="3" />
+  <vehicle id="6586" routeTag="8" dirTag="8____I_F00" lat="37.713299" lon="-122.414635" secsSinceReport="41" predictable="true"
+    heading="105" speedKmHr="13" />
+  <vehicle id="8884" routeTag="27" dirTag="27___O_F00" lat="37.789268" lon="-122.415657" secsSinceReport="29" predictable="true"
+    heading="75" speedKmHr="3" />
+  <vehicle id="1408" routeTag="J" dirTag="J____I_F00" lat="37.721687" lon="-122.446991" secsSinceReport="52" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8615" routeTag="9" dirTag="9____I_N00" lat="37.784721" lon="-122.407143" secsSinceReport="29" predictable="true"
+    heading="30" speedKmHr="21" />
+  <vehicle id="6722" routeTag="38R" dirTag="38R__I_F00" lat="37.789665" lon="-122.400887" secsSinceReport="29" predictable="true"
+    heading="46" speedKmHr="0" />
+  <vehicle id="1509" routeTag="M" dirTag="M____O_F00" lat="37.71316" lon="-122.45567" secsSinceReport="7" predictable="true"
+    heading="89" speedKmHr="37" />
+  <vehicle id="8406" routeTag="21" dirTag="21___O_F00" lat="37.7919539" lon="-122.398064" secsSinceReport="16" predictable="true"
+    heading="225" speedKmHr="0" />
+  <vehicle id="1469" routeTag="N" dirTag="N____O_F00" lat="37.76175" lon="-122.47677" secsSinceReport="12" predictable="true"
+    heading="266" speedKmHr="18" />
+  <vehicle id="7217" routeTag="14" dirTag="14___O_F00" lat="37.716465" lon="-122.441147" secsSinceReport="5" predictable="true"
+    heading="195" speedKmHr="26" />
+  <vehicle id="5496" routeTag="1" dirTag="1____I_F00" lat="37.787376" lon="-122.445572" secsSinceReport="29" predictable="true"
+    heading="75" speedKmHr="14" />
+  <vehicle id="5588" routeTag="3" dirTag="3____I_F00" lat="37.792339" lon="-122.434555" secsSinceReport="29" predictable="true"
+    heading="75" speedKmHr="3" />
+  <vehicle id="8850" routeTag="23" dirTag="23___O_F10" lat="37.735626" lon="-122.503441" secsSinceReport="5" predictable="true"
+    heading="267" speedKmHr="0" />
+  <vehicle id="8368" routeTag="12" dirTag="12___I_F00" lat="37.790661" lon="-122.400543" secsSinceReport="41" predictable="true"
+    heading="350" speedKmHr="0" />
+  <vehicle id="8867" routeTag="44" dirTag="44___I_F00" lat="37.746346" lon="-122.455276" secsSinceReport="29" predictable="true"
+    heading="297" speedKmHr="0" />
+  <vehicle id="8221" routeTag="47" dirTag="47___O_F00" lat="37.807468" lon="-122.412247" secsSinceReport="41" predictable="true"
+    heading="355" speedKmHr="0" />
+  <vehicle id="8521" routeTag="36" dirTag="36___I_F00" lat="37.749916" lon="-122.450294" secsSinceReport="16" predictable="true"
+    heading="180" speedKmHr="8" />
+  <vehicle id="8152" routeTag="43" dirTag="43___O_F00" lat="37.804111" lon="-122.431931" secsSinceReport="5" predictable="true"
+    heading="165" speedKmHr="27" />
+  <vehicle id="8727" routeTag="76X" dirTag="76X__O_F00" lat="37.790207" lon="-122.400902" secsSinceReport="29" predictable="true"
+    heading="270" speedKmHr="21" />
+  <vehicle id="7249" routeTag="5" dirTag="5____O_F00" lat="37.773468" lon="-122.465919" secsSinceReport="5" predictable="true"
+    heading="255" speedKmHr="31" />
+  <vehicle id="8171" routeTag="43" dirTag="43___O_F00" lat="37.805084" lon="-122.432518" secsSinceReport="29" predictable="true"
+    heading="81" speedKmHr="0" />
+  <vehicle id="60" routeTag="61" dirTag="61___I_F00" lat="37.791241" lon="-122.41552" secsSinceReport="16" predictable="true"
+    heading="75" speedKmHr="10" />
+  <vehicle id="8515" routeTag="57" dirTag="57___O_F00" lat="37.728489" lon="-122.479019" secsSinceReport="29" predictable="true"
+    heading="317" speedKmHr="0" />
+  <vehicle id="7242" routeTag="30" dirTag="30___I_S10" lat="37.776505" lon="-122.395721" secsSinceReport="5" predictable="true"
+    heading="45" speedKmHr="3" />
+  <vehicle id="8619" routeTag="44" dirTag="44___O_F00" lat="37.783115" lon="-122.4645" secsSinceReport="52" predictable="true"
+    heading="179" speedKmHr="0" />
+  <vehicle id="5465" routeTag="30" dirTag="30___O_D00" lat="37.764866" lon="-122.42308" secsSinceReport="5" predictable="true"
+    heading="255" speedKmHr="37" />
+  <vehicle id="7255" routeTag="14" dirTag="14___I_F00" lat="37.73074" lon="-122.429222" secsSinceReport="52" predictable="true"
+    heading="30" speedKmHr="19" />
+  <vehicle id="8416" routeTag="21" dirTag="21___I_F00" lat="37.790783" lon="-122.399216" secsSinceReport="5" predictable="true"
+    heading="45" speedKmHr="6" />
+  <vehicle id="4" routeTag="60" dirTag="60___I_F00" lat="37.801922" lon="-122.419632" secsSinceReport="41" predictable="true"
+    heading="171" speedKmHr="0" />
+  <vehicle id="1484" routeTag="M" dirTag="M____I_F00" lat="37.71989" lon="-122.44607" secsSinceReport="23" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8891" routeTag="9" dirTag="9____O_N00" lat="37.794182" lon="-122.395264" secsSinceReport="5" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="6547" routeTag="38R" dirTag="38R__I_F00" lat="37.785206" lon="-122.417656" secsSinceReport="16" predictable="true"
+    heading="75" speedKmHr="34" />
+  <vehicle id="6591" routeTag="8" dirTag="8____I_F00" lat="37.731583" lon="-122.405212" secsSinceReport="5" predictable="true"
+    heading="330" speedKmHr="24" />
+  <vehicle id="1545" routeTag="N" dirTag="N____O_F00" lat="37.76553" lon="-122.45248" secsSinceReport="26" predictable="true"
+    heading="260" speedKmHr="14" />
+  <vehicle id="1519" routeTag="KT" dirTag="KT___O_F00" lat="37.76955" lon="-122.42651" secsSinceReport="6" predictable="true"
+    heading="225" speedKmHr="0" />
+  <vehicle id="8322" routeTag="28" dirTag="28___I_F00" lat="37.772377" lon="-122.475845" secsSinceReport="41" predictable="true"
+    heading="75" speedKmHr="63" />
+  <vehicle id="7233" routeTag="30" dirTag="30___I_S10" lat="37.785477" lon="-122.409622" secsSinceReport="16" predictable="true"
+    heading="170" speedKmHr="0" />
+  <vehicle id="8881" routeTag="9" dirTag="9____O_N00" lat="37.709854" lon="-122.408615" secsSinceReport="52" predictable="true"
+    heading="285" speedKmHr="23" />
+  <vehicle id="8210" routeTag="43" dirTag="43___I_F00" lat="37.76265" lon="-122.46067" secsSinceReport="41" predictable="true"
+    heading="60" speedKmHr="24" />
+  <vehicle id="8175" routeTag="28" dirTag="28___I_F00" lat="37.70565" lon="-122.467728" secsSinceReport="29" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="6548" routeTag="38" dirTag="38___I_F10" lat="37.781879" lon="-122.504349" secsSinceReport="16" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8889" routeTag="22" dirTag="22___I_F00" lat="37.7966539" lon="-122.437103" secsSinceReport="5" predictable="true"
+    heading="351" speedKmHr="0" />
+  <vehicle id="7206" routeTag="14" dirTag="14___O_F00" lat="37.734711" lon="-122.425446" secsSinceReport="5" predictable="true"
+    heading="210" speedKmHr="34" />
+  <vehicle id="5568" routeTag="1" dirTag="1____I_F00" lat="37.786755" lon="-122.450249" secsSinceReport="5" predictable="true"
+    heading="79" speedKmHr="0" />
+  <vehicle id="8860" routeTag="27" dirTag="27___I_F00" lat="37.764668" lon="-122.410408" secsSinceReport="5" predictable="true"
+    heading="345" speedKmHr="5" />
+  <vehicle id="8855" routeTag="29" dirTag="29___O_F00" lat="37.719822" lon="-122.47612" secsSinceReport="16" predictable="true"
+    heading="165" speedKmHr="23" />
+  <vehicle id="1521" routeTag="KT" dirTag="KT___I_F00" lat="37.7201499" lon="-122.39672" secsSinceReport="3" predictable="true"
+    heading="204" speedKmHr="27" />
+  <vehicle id="8630" routeTag="57" dirTag="57___I_F00" lat="37.719406" lon="-122.479446" secsSinceReport="64" predictable="true"
+    heading="315" speedKmHr="23" />
+  <vehicle id="8897" routeTag="29" dirTag="29___I_F00" lat="37.758846" lon="-122.495522" secsSinceReport="5" predictable="true"
+    heading="345" speedKmHr="2" />
+  <vehicle id="8838" routeTag="27" dirTag="27___I_F00" lat="37.749065" lon="-122.417267" secsSinceReport="52" predictable="true"
+    heading="85" speedKmHr="0" />
+  <vehicle id="5525" routeTag="31" dirTag="31___I_F00" lat="37.776024" lon="-122.489967" secsSinceReport="5" predictable="true"
+    heading="75" speedKmHr="5" />
+  <vehicle id="5460" routeTag="6" dirTag="6____O_F00" lat="37.78524" lon="-122.406525" secsSinceReport="52" predictable="true"
+    heading="225" speedKmHr="0" />
+  <vehicle id="8643" routeTag="27" dirTag="27___O_F00" lat="37.794006" lon="-122.422867" secsSinceReport="5" predictable="true"
+    heading="261" speedKmHr="0" />
+  <vehicle id="8835" routeTag="9" dirTag="9____O_N00" lat="37.771412" lon="-122.413559" secsSinceReport="5" predictable="true"
+    heading="120" speedKmHr="53" />
+  <vehicle id="6598" routeTag="8" dirTag="8____O_F00" lat="37.730694" lon="-122.404922" secsSinceReport="5" predictable="true"
+    heading="150" speedKmHr="5" />
+  <vehicle id="8758" routeTag="47" dirTag="47___I_F00" lat="37.77309" lon="-122.418457" secsSinceReport="41" predictable="true"
+    heading="208" speedKmHr="0" />
+  <vehicle id="15" routeTag="60" dirTag="60___O_F00" lat="37.794815" lon="-122.416107" secsSinceReport="5" predictable="true"
+    heading="261" speedKmHr="0" />
+  <vehicle id="1077" routeTag="F" dirTag="F____I_F00" lat="37.80539" lon="-122.40366" secsSinceReport="3" predictable="true"
+    heading="312" speedKmHr="35" />
+  <vehicle id="6605" routeTag="38" dirTag="38___O_S00" lat="37.786583" lon="-122.414665" secsSinceReport="41" predictable="true"
+    heading="255" speedKmHr="10" />
+  <vehicle id="6626" routeTag="49" dirTag="49___O_F00" lat="37.782585" lon="-122.420898" secsSinceReport="5" predictable="true"
+    heading="172" speedKmHr="0" />
+  <vehicle id="1078" routeTag="F" dirTag="F____I_F00" lat="37.8081" lon="-122.4173" secsSinceReport="19" predictable="true"
+    heading="259" speedKmHr="0" />
+  <vehicle id="1513" routeTag="M" dirTag="M____I_F00" lat="37.75156" lon="-122.3845" secsSinceReport="39" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8818" routeTag="21" dirTag="21___I_F00" lat="37.773918" lon="-122.445839" secsSinceReport="16" predictable="true"
+    heading="82" speedKmHr="0" />
+  <vehicle id="28" routeTag="59" lat="37.784966" lon="-122.407967" secsSinceReport="5" predictable="true" heading="171" speedKmHr="0"
+  />
+  <vehicle id="1059" routeTag="F" dirTag="F____I_F00" lat="37.80086" lon="-122.39904" secsSinceReport="15" predictable="true"
+    heading="324" speedKmHr="11" />
+  <vehicle id="6621" routeTag="38R" dirTag="38R__O_F00" lat="37.785831" lon="-122.420708" secsSinceReport="52" predictable="true"
+    heading="262" speedKmHr="0" />
+  <vehicle id="8728" routeTag="10" dirTag="10___I_F00" lat="37.771641" lon="-122.401733" secsSinceReport="52" predictable="true"
+    heading="46" speedKmHr="0" />
+  <vehicle id="8731" routeTag="43" dirTag="43___O_F00" lat="37.731133" lon="-122.457581" secsSinceReport="29" predictable="true"
+    heading="165" speedKmHr="6" />
+  <vehicle id="5508" routeTag="24" dirTag="24___O_F00" lat="37.7552189" lon="-122.434502" secsSinceReport="5" predictable="true"
+    heading="165" speedKmHr="18" />
+  <vehicle id="8653" routeTag="29" dirTag="29___O_F00" lat="37.727127" lon="-122.483994" secsSinceReport="5" predictable="true"
+    heading="166" speedKmHr="0" />
+  <vehicle id="6551" routeTag="8" dirTag="8____O_F00" lat="37.789249" lon="-122.408455" secsSinceReport="52" predictable="true"
+    heading="258" speedKmHr="0" />
+  <vehicle id="8325" routeTag="28" dirTag="28___O_F00" lat="37.72945" lon="-122.474976" secsSinceReport="41" predictable="true"
+    heading="180" speedKmHr="43" />
+  <vehicle id="1400" routeTag="KT" dirTag="KT___O_F00" lat="37.7528099" lon="-122.38577" secsSinceReport="39" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="6573" routeTag="8" dirTag="8____I_F00" lat="37.7104069" lon="-122.404228" secsSinceReport="5" predictable="true"
+    heading="90" speedKmHr="18" />
+  <vehicle id="5495" routeTag="45" dirTag="45___O_F00" lat="37.796257" lon="-122.408325" secsSinceReport="5" predictable="true"
+    heading="345" speedKmHr="5" />
+  <vehicle id="8514" routeTag="35" dirTag="35___O_F01" lat="37.762146" lon="-122.436249" secsSinceReport="52" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8751" routeTag="47" dirTag="47___I_F00" lat="37.774006" lon="-122.408432" secsSinceReport="16" predictable="true"
+    heading="225" speedKmHr="0" />
+  <vehicle id="6619" routeTag="38R" dirTag="38R__O_F00" lat="37.783234" lon="-122.441116" secsSinceReport="52" predictable="true"
+    heading="255" speedKmHr="40" />
+  <vehicle id="1457" routeTag="J" dirTag="J____I_F00" lat="37.78315" lon="-122.40901" secsSinceReport="6" predictable="true"
+    heading="45" speedKmHr="0" />
+  <vehicle id="8618" routeTag="48" dirTag="48___I_F00" lat="37.740921" lon="-122.465996" secsSinceReport="29" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8839" routeTag="22" dirTag="22___O_F00" lat="37.763966" lon="-122.397697" secsSinceReport="52" predictable="true"
+    heading="165" speedKmHr="2" />
+  <vehicle id="7202" routeTag="14" dirTag="14___I_F00" lat="37.7936059" lon="-122.395844" secsSinceReport="16" predictable="true"
+    heading="45" speedKmHr="24" />
+  <vehicle id="5500" routeTag="45" dirTag="45___I_F00" lat="37.789902" lon="-122.407112" secsSinceReport="29" predictable="true"
+    heading="170" speedKmHr="0" />
+  <vehicle id="6721" routeTag="14R" dirTag="14R__O_F10" lat="37.722477" lon="-122.436546" secsSinceReport="5" predictable="true"
+    heading="195" speedKmHr="34" />
+  <vehicle id="8868" routeTag="29" dirTag="29___I_F00" lat="37.722404" lon="-122.395615" secsSinceReport="16" predictable="true"
+    heading="270" speedKmHr="21" />
+  <vehicle id="6711" routeTag="49" dirTag="49___I_F00" lat="37.730095" lon="-122.429878" secsSinceReport="52" predictable="true"
+    heading="30" speedKmHr="32" />
+  <vehicle id="8821" routeTag="9" dirTag="9____I_N00" lat="37.70694" lon="-122.415527" secsSinceReport="29" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8637" routeTag="27" dirTag="27___I_F00" lat="37.7482339" lon="-122.418602" secsSinceReport="5" predictable="true"
+    heading="270" speedKmHr="16" />
+  <vehicle id="1447" routeTag="J" dirTag="J____I_F00" lat="37.74261" lon="-122.42657" secsSinceReport="7" predictable="true"
+    heading="356" speedKmHr="1" />
+  <vehicle id="1493" routeTag="N" dirTag="N____O_F00" lat="37.76958" lon="-122.42776" secsSinceReport="16" predictable="true"
+    heading="266" speedKmHr="0" leadingVehicleId="1539" />
+  <vehicle id="6727" routeTag="7" dirTag="7____O_F00" lat="37.7692989" lon="-122.452881" secsSinceReport="52" predictable="true"
+    heading="254" speedKmHr="0" />
+  <vehicle id="8777" routeTag="47" dirTag="47___I_F00" lat="37.782967" lon="-122.420731" secsSinceReport="52" predictable="true"
+    heading="352" speedKmHr="0" />
+  <vehicle id="1482" routeTag="N" dirTag="N____I_F00" lat="37.76035" lon="-122.50919" secsSinceReport="39" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="7224" routeTag="14" dirTag="14___I_F00" lat="37.706318" lon="-122.460136" secsSinceReport="5" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="7238" routeTag="14" dirTag="14___O_F00" lat="37.758148" lon="-122.41909" secsSinceReport="29" predictable="true"
+    heading="165" speedKmHr="11" />
+  <vehicle id="8802" routeTag="48" dirTag="48___I_F00" lat="37.754078" lon="-122.406403" secsSinceReport="41" predictable="true"
+    heading="355" speedKmHr="0" />
+  <vehicle id="8413" routeTag="22" dirTag="22___I_F00" lat="37.760471" lon="-122.38929" secsSinceReport="29" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="6592" routeTag="7" dirTag="7____I_F00" lat="37.77026" lon="-122.444748" secsSinceReport="5" predictable="true"
+    heading="75" speedKmHr="21" />
+  <vehicle id="5444" routeTag="30" dirTag="30___O_F01" lat="37.804401" lon="-122.443764" secsSinceReport="41" predictable="true"
+    heading="165" speedKmHr="16" />
+  <vehicle id="1424" routeTag="N" dirTag="N____I_F00" lat="37.76496" lon="-122.4564" secsSinceReport="7" predictable="true"
+    heading="81" speedKmHr="0" />
+  <vehicle id="5580" routeTag="24" dirTag="24___I_F00" lat="37.734467" lon="-122.390739" secsSinceReport="29" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8748" routeTag="57" dirTag="57___O_F00" lat="37.715099" lon="-122.492767" secsSinceReport="41" predictable="true"
+    heading="300" speedKmHr="61" />
+  <vehicle id="8138" routeTag="47" dirTag="47___O_F00" lat="37.778061" lon="-122.396355" secsSinceReport="29" predictable="true"
+    heading="135" speedKmHr="0" />
+  <vehicle id="7241" routeTag="14" dirTag="14___I_F00" lat="37.777588" lon="-122.412895" secsSinceReport="16" predictable="true"
+    heading="45" speedKmHr="0" />
+  <vehicle id="7201" routeTag="14" dirTag="14___O_F00" lat="37.777283" lon="-122.413551" secsSinceReport="29" predictable="true"
+    heading="225" speedKmHr="3" />
+  <vehicle id="8896" routeTag="18" dirTag="18___O_F01" lat="37.7273179" lon="-122.484077" secsSinceReport="41" predictable="true"
+    heading="150" speedKmHr="18" />
+  <vehicle id="6561" routeTag="38" dirTag="38___O_F10" lat="37.788517" lon="-122.402451" secsSinceReport="41" predictable="true"
+    heading="226" speedKmHr="0" />
+  <vehicle id="6582" routeTag="49" dirTag="49___I_F00" lat="37.752007" lon="-122.418411" secsSinceReport="5" predictable="true"
+    heading="345" speedKmHr="10" />
+  <vehicle id="7253" routeTag="5" dirTag="5____I_F00" lat="37.781044" lon="-122.412849" secsSinceReport="41" predictable="true"
+    heading="75" speedKmHr="19" />
+  <vehicle id="1514" routeTag="N" dirTag="N____I_F00" lat="37.76165" lon="-122.47735" secsSinceReport="31" predictable="true"
+    heading="86" speedKmHr="0" />
+  <vehicle id="1464" routeTag="N" dirTag="N____I_F00" lat="37.76956" lon="-122.42706" secsSinceReport="7" predictable="true"
+    heading="87" speedKmHr="0" />
+  <vehicle id="8623" routeTag="33" dirTag="33___O_F00" lat="37.7869" lon="-122.456963" secsSinceReport="16" predictable="true"
+    heading="75" speedKmHr="6" />
+  <vehicle id="5561" routeTag="1" dirTag="1____I_F00" lat="37.781395" lon="-122.493462" secsSinceReport="5" predictable="true"
+    heading="360" speedKmHr="11" />
+  <vehicle id="1529" routeTag="J" dirTag="J____I_F00" lat="37.72235" lon="-122.44707" secsSinceReport="27" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8825" routeTag="18" dirTag="18___O_F01" lat="37.7734219" lon="-122.507744" secsSinceReport="41" predictable="true"
+    heading="269" speedKmHr="0" />
+  <vehicle id="6597" routeTag="49" dirTag="49___O_F00" lat="37.805218" lon="-122.425484" secsSinceReport="16" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="5506" routeTag="45" dirTag="45___I_F00" lat="37.798698" lon="-122.422501" secsSinceReport="29" predictable="true"
+    heading="81" speedKmHr="0" />
+  <vehicle id="8507" routeTag="67" dirTag="67___O_F00" lat="37.7523" lon="-122.418358" secsSinceReport="5" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="7209" routeTag="14" dirTag="14___O_F00" lat="37.793324" lon="-122.393501" secsSinceReport="5" predictable="true"
+    heading="143" speedKmHr="0" />
+  <vehicle id="8513" routeTag="56" dirTag="56___O_F00" lat="37.712345" lon="-122.406769" secsSinceReport="52" predictable="true"
+    heading="105" speedKmHr="19" />
+  <vehicle id="8349" routeTag="10" dirTag="10___O_F00" lat="37.795116" lon="-122.421265" secsSinceReport="29" predictable="true"
+    heading="260" speedKmHr="0" />
+  <vehicle id="6726" routeTag="49" dirTag="49___O_F00" lat="37.788673" lon="-122.422096" secsSinceReport="41" predictable="true"
+    heading="171" speedKmHr="0" />
+  <vehicle id="7247" routeTag="5" dirTag="5____O_F00" lat="37.77441" lon="-122.457718" secsSinceReport="41" predictable="true"
+    heading="255" speedKmHr="11" />
+  <vehicle id="8527" routeTag="66" dirTag="66___O_F00" lat="37.761806" lon="-122.466225" secsSinceReport="29" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="6549" routeTag="8" dirTag="8____O_F00" lat="37.777084" lon="-122.404526" secsSinceReport="29" predictable="true"
+    heading="225" speedKmHr="10" />
+  <vehicle id="8308" routeTag="47" dirTag="47___O_F00" lat="37.805946" lon="-122.418976" secsSinceReport="29" predictable="true"
+    heading="255" speedKmHr="29" />
+  <vehicle id="8729" routeTag="28" dirTag="28___O_F00" lat="37.752522" lon="-122.476448" secsSinceReport="5" predictable="true"
+    heading="165" speedKmHr="29" />
+  <vehicle id="8149" routeTag="12" dirTag="12___O_F00" lat="37.775635" lon="-122.406326" secsSinceReport="16" predictable="true"
+    heading="225" speedKmHr="16" />
+  <vehicle id="1007" routeTag="E" dirTag="E____I_F00" lat="37.77348" lon="-122.39771" secsSinceReport="42" predictable="true"
+    heading="216" speedKmHr="0" />
+  <vehicle id="8156" routeTag="12" dirTag="12___I_F00" lat="37.748585" lon="-122.416016" secsSinceReport="29" predictable="true"
+    heading="87" speedKmHr="0" />
+  <vehicle id="1456" routeTag="L" dirTag="L____I_F00" lat="37.73615" lon="-122.50502" secsSinceReport="15" predictable="true"
+    heading="87" speedKmHr="5" />
+  <vehicle id="5571" routeTag="1" dirTag="1____I_F00" lat="37.784283" lon="-122.476936" secsSinceReport="52" predictable="true"
+    heading="75" speedKmHr="11" />
+  <vehicle id="8806" routeTag="9" dirTag="9____O_N00" lat="37.729916" lon="-122.404617" secsSinceReport="52" predictable="true"
+    heading="150" speedKmHr="19" />
+  <vehicle id="1508" routeTag="KT" dirTag="KT___O_F00" lat="37.72856" lon="-122.39288" secsSinceReport="3" predictable="true"
+    heading="15" speedKmHr="48" />
+  <vehicle id="6544" routeTag="49" dirTag="49___I_F00" lat="37.80257" lon="-122.42466" secsSinceReport="5" predictable="true"
+    heading="345" speedKmHr="3" />
+  <vehicle id="5524" routeTag="1" dirTag="1____O_F00" lat="37.781818" lon="-122.492447" secsSinceReport="52" predictable="true"
+    heading="176" speedKmHr="0" />
+  <vehicle id="8218" routeTag="19" dirTag="19___O_F00" lat="37.7962459" lon="-122.42189" secsSinceReport="16" predictable="true"
+    heading="165" speedKmHr="18" />
+  <vehicle id="25" routeTag="59" dirTag="59___O_F00" lat="37.790661" lon="-122.40892" secsSinceReport="76" predictable="true"
+    heading="90" speedKmHr="11" />
+  <vehicle id="7231" routeTag="14" dirTag="14___O_F00" lat="37.780205" lon="-122.409721" secsSinceReport="16" predictable="true"
+    heading="225" speedKmHr="31" />
+  <vehicle id="8617" routeTag="9" dirTag="9____I_N00" lat="37.742176" lon="-122.4058" secsSinceReport="41" predictable="true"
+    heading="29" speedKmHr="0" />
+  <vehicle id="8650" routeTag="48" dirTag="48___I_F00" lat="37.752361" lon="-122.39563" secsSinceReport="41" predictable="true"
+    heading="90" speedKmHr="10" />
+  <vehicle id="5435" routeTag="30" dirTag="30___I_F01" lat="37.801849" lon="-122.427986" secsSinceReport="29" predictable="true"
+    heading="75" speedKmHr="18" />
+  <vehicle id="6712" routeTag="38" dirTag="38___I_S00" lat="37.779549" lon="-122.492233" secsSinceReport="29" predictable="true"
+    heading="121" speedKmHr="0" />
+  <vehicle id="7240" routeTag="5" dirTag="5____O_F00" lat="37.791355" lon="-122.398575" secsSinceReport="16" predictable="true"
+    heading="210" speedKmHr="10" />
+  <vehicle id="1481" routeTag="N" dirTag="N____O_F00" lat="37.77497" lon="-122.41967" secsSinceReport="6" predictable="true"
+    heading="224" speedKmHr="0" />
+  <vehicle id="1523" routeTag="N" dirTag="N____O_F00" lat="37.76174" lon="-122.47681" secsSinceReport="3" predictable="true"
+    heading="267" speedKmHr="24" leadingVehicleId="1469" />
+  <vehicle id="8801" routeTag="22" dirTag="22___O_F00" lat="37.784428" lon="-122.433052" secsSinceReport="29" predictable="true"
+    heading="165" speedKmHr="16" />
+  <vehicle id="5606" routeTag="24" dirTag="24___I_F00" lat="37.762749" lon="-122.435196" secsSinceReport="29" predictable="true"
+    heading="345" speedKmHr="18" />
+  <vehicle id="8875" routeTag="44" dirTag="44___I_F00" lat="37.77364" lon="-122.465889" secsSinceReport="52" predictable="true"
+    heading="354" speedKmHr="0" />
+  <vehicle id="8744" routeTag="12" dirTag="12___O_F00" lat="37.796467" lon="-122.410362" secsSinceReport="5" predictable="true"
+    heading="81" speedKmHr="0" />
+  <vehicle id="24" routeTag="59" lat="37.8046" lon="-122.415077" secsSinceReport="52" predictable="true" heading="347" speedKmHr="0"
+  />
+  <vehicle id="8841" routeTag="9" dirTag="9____O_N00" lat="37.737972" lon="-122.407074" secsSinceReport="5" predictable="true"
+    heading="165" speedKmHr="26" />
+  <vehicle id="5576" routeTag="24" dirTag="24___I_F00" lat="37.734341" lon="-122.390755" secsSinceReport="5" predictable="true"
+    heading="124" speedKmHr="0" />
+  <vehicle id="12" routeTag="60" lat="37.806477" lon="-122.420532" secsSinceReport="29" predictable="true" heading="349" speedKmHr="0"
+  />
+  <vehicle id="5421" routeTag="6" dirTag="6____O_F00" lat="37.7731319" lon="-122.422615" secsSinceReport="16" predictable="true"
+    heading="257" speedKmHr="0" />
+  <vehicle id="6540" routeTag="49" dirTag="49___O_F00" lat="37.741219" lon="-122.422836" secsSinceReport="41" predictable="true"
+    heading="207" speedKmHr="0" />
+  <vehicle id="7227" routeTag="30" dirTag="30___O_S10" lat="37.777866" lon="-122.393936" secsSinceReport="16" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="8771" routeTag="28" dirTag="28___O_F00" lat="37.798916" lon="-122.444046" secsSinceReport="29" predictable="true"
+    heading="255" speedKmHr="6" />
+  <vehicle id="5501" routeTag="1" dirTag="1____I_F00" lat="37.792538" lon="-122.419594" secsSinceReport="52" predictable="true"
+    heading="81" speedKmHr="0" />
+  <vehicle id="7203" routeTag="14" dirTag="14___I_F00" lat="37.755791" lon="-122.418739" secsSinceReport="16" predictable="true"
+    heading="356" speedKmHr="0" />
+  <vehicle id="5441" routeTag="30" dirTag="30___O_F01" lat="37.799061" lon="-122.40892" secsSinceReport="5" predictable="true"
+    heading="345" speedKmHr="3" />
+  <vehicle id="8651" routeTag="22" dirTag="22___I_F00" lat="37.797054" lon="-122.43557" secsSinceReport="41" predictable="true"
+    heading="75" speedKmHr="3" />
+  <vehicle id="8329" routeTag="12" dirTag="12___I_F00" lat="37.79401" lon="-122.422348" secsSinceReport="52" predictable="true"
+    heading="257" speedKmHr="0" />
+  <vehicle id="1405" routeTag="L" dirTag="L____O_F00" lat="37.79298" lon="-122.39161" secsSinceReport="8" predictable="true"
+    heading="131" speedKmHr="0" />
+  <vehicle id="8712" routeTag="43" dirTag="43___O_F00" lat="37.802338" lon="-122.455643" secsSinceReport="41" predictable="true"
+    heading="225" speedKmHr="24" />
+  <vehicle id="6568" routeTag="7" dirTag="7____I_F00" lat="37.765289" lon="-122.478752" secsSinceReport="41" predictable="true"
+    heading="75" speedKmHr="21" />
+  <vehicle id="2" routeTag="60" dirTag="60___O_F00" lat="37.786201" lon="-122.408203" secsSinceReport="41" predictable="true"
+    heading="353" speedKmHr="0" />
+  <vehicle id="5428" routeTag="30" dirTag="30___I_F01" lat="37.7959559" lon="-122.408356" secsSinceReport="16" predictable="true"
+    heading="171" speedKmHr="0" />
+  <vehicle id="8313" routeTag="47" dirTag="47___I_F00" lat="37.776443" lon="-122.395981" secsSinceReport="29" predictable="true"
+    heading="226" speedKmHr="0" />
+  <vehicle id="8634" routeTag="54" dirTag="54___O_F00" lat="37.728085" lon="-122.384933" secsSinceReport="5" predictable="true"
+    heading="210" speedKmHr="19" />
+  <vehicle id="6704" routeTag="38" dirTag="38___O_F10" lat="37.780632" lon="-122.474731" secsSinceReport="5" predictable="true"
+    heading="255" speedKmHr="16" />
+  <vehicle id="6703" routeTag="38" dirTag="38___O_F10" lat="37.786079" lon="-122.418541" secsSinceReport="5" predictable="true"
+    heading="261" speedKmHr="0" />
+  <vehicle id="1487" routeTag="J" dirTag="J____O_F00" lat="37.74261" lon="-122.42661" secsSinceReport="52" predictable="true"
+    heading="172" speedKmHr="1" />
+  <vehicle id="6543" routeTag="7" dirTag="7____O_F00" lat="37.765434" lon="-122.479523" secsSinceReport="52" predictable="true"
+    heading="255" speedKmHr="10" />
+  <vehicle id="1472" routeTag="L" dirTag="L____O_F00" lat="37.74248" lon="-122.48963" secsSinceReport="23" predictable="true"
+    heading="267" speedKmHr="18" />
+  <vehicle id="8848" routeTag="22" dirTag="22___O_F00" lat="37.7732389" lon="-122.430771" secsSinceReport="41" predictable="true"
+    heading="165" speedKmHr="5" />
+  <vehicle id="6570" routeTag="38R" dirTag="38R__I_F00" lat="37.779324" lon="-122.509422" secsSinceReport="41" predictable="true"
+    heading="178" speedKmHr="0" />
+  <vehicle id="1543" routeTag="M" dirTag="M____O_F00" lat="37.727341" lon="-122.474968" secsSinceReport="16" predictable="true"
+    heading="184" speedKmHr="0" />
+  <vehicle id="1011" routeTag="E" dirTag="E____I_F00" lat="37.804367" lon="-122.402298" secsSinceReport="5" predictable="true"
+    heading="300" speedKmHr="16" />
+  <vehicle id="1815" routeTag="F" dirTag="F____O_F00" lat="37.7977599" lon="-122.39638" secsSinceReport="39" predictable="true"
+    heading="144" speedKmHr="22" />
+  <vehicle id="8805" routeTag="2" dirTag="2____I_F00" lat="37.782494" lon="-122.473198" secsSinceReport="41" predictable="true"
+    heading="91" speedKmHr="0" />
+  <vehicle id="5510" routeTag="45" dirTag="45___O_D00" lat="37.784882" lon="-122.446907" secsSinceReport="29" predictable="true"
+    heading="218" speedKmHr="0" />
+  <vehicle id="6563" routeTag="7" dirTag="7____I_F00" lat="37.7730559" lon="-122.422691" secsSinceReport="52" predictable="true"
+    heading="81" speedKmHr="0" />
+  <vehicle id="6607" routeTag="49" dirTag="49___I_F00" lat="37.771763" lon="-122.419312" secsSinceReport="16" predictable="true"
+    heading="15" speedKmHr="14" />
+  <vehicle id="6718" routeTag="14R" dirTag="14R__I_F10" lat="37.711674" lon="-122.445824" secsSinceReport="52" predictable="true"
+    heading="55" speedKmHr="0" />
+  <vehicle id="1520" routeTag="KT" dirTag="KT___I_F00" lat="37.77444" lon="-122.41999" secsSinceReport="2" predictable="true"
+    heading="45" speedKmHr="0" />
+  <vehicle id="8656" routeTag="44" dirTag="44___O_F00" lat="37.738605" lon="-122.380539" secsSinceReport="5" predictable="true"
+    heading="300" speedKmHr="52" />
+  <lastTime time="1511033386554" />
+</body>

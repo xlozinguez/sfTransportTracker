@@ -8,6 +8,36 @@ import '@stencil/router';
 
 
 import {
+  SfApp as SfApp
+} from './components/sf-app/sf-app';
+
+declare global {
+  interface HTMLSfAppElement extends SfApp, HTMLElement {
+  }
+  var HTMLSfAppElement: {
+    prototype: HTMLSfAppElement;
+    new (): HTMLSfAppElement;
+  };
+  interface HTMLElementTagNameMap {
+    "sf-app": HTMLSfAppElement;
+  }
+  interface ElementTagNameMap {
+    "sf-app": HTMLSfAppElement;
+  }
+  namespace JSX {
+    interface IntrinsicElements {
+      "sf-app": JSXElements.SfAppAttributes;
+    }
+  }
+  namespace JSXElements {
+    export interface SfAppAttributes extends HTMLAttributes {
+      
+    }
+  }
+}
+
+
+import {
   SfMap as SfMap
 } from './components/sf-map/sf-map';
 
@@ -35,6 +65,66 @@ declare global {
         longitude?: string,
         latitude?: string,
         radius?: string
+    }
+  }
+}
+
+
+import {
+  SfRouteList as SfRoutelist
+} from './components/sf-routeList/sf-routeList';
+
+declare global {
+  interface HTMLSfRoutelistElement extends SfRoutelist, HTMLElement {
+  }
+  var HTMLSfRoutelistElement: {
+    prototype: HTMLSfRoutelistElement;
+    new (): HTMLSfRoutelistElement;
+  };
+  interface HTMLElementTagNameMap {
+    "sf-routelist": HTMLSfRoutelistElement;
+  }
+  interface ElementTagNameMap {
+    "sf-routelist": HTMLSfRoutelistElement;
+  }
+  namespace JSX {
+    interface IntrinsicElements {
+      "sf-routelist": JSXElements.SfRoutelistAttributes;
+    }
+  }
+  namespace JSXElements {
+    export interface SfRoutelistAttributes extends HTMLAttributes {
+      
+    }
+  }
+}
+
+
+import {
+  SfVehicle as SfVehicle
+} from './components/sf-vehicle/sf-vehicle';
+
+declare global {
+  interface HTMLSfVehicleElement extends SfVehicle, HTMLElement {
+  }
+  var HTMLSfVehicleElement: {
+    prototype: HTMLSfVehicleElement;
+    new (): HTMLSfVehicleElement;
+  };
+  interface HTMLElementTagNameMap {
+    "sf-vehicle": HTMLSfVehicleElement;
+  }
+  interface ElementTagNameMap {
+    "sf-vehicle": HTMLSfVehicleElement;
+  }
+  namespace JSX {
+    interface IntrinsicElements {
+      "sf-vehicle": JSXElements.SfVehicleAttributes;
+    }
+  }
+  namespace JSXElements {
+    export interface SfVehicleAttributes extends HTMLAttributes {
+      
     }
   }
 }

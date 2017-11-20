@@ -1,6 +1,6 @@
 exports.config = {
   bundles: [
-    { components: ['sf-map'] }
+    { components: ['sf-app', 'sf-map', 'sf-vehicle', 'sf-routeList'] }
   ],
   collections: [
     { name: '@stencil/router' }

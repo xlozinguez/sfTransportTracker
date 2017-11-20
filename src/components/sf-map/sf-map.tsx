@@ -41,7 +41,7 @@ export class SfMap {
       clearTimeout(timeout);
       // Create the map and set the current position
       let latlng = new (window as any).google.maps.LatLng(+this.longitude,+this.latitude);
-      this.map = new (window as any).google.maps.Map(this.mapEl.querySelector('#map'), {
+      this.map = new (window as any).google.maps.Map(this.mapEl, {
         center: latlng,
         zoom: 13
       });
@@ -58,8 +58,8 @@ export class SfMap {
 
   render() {
     return (
-      <div id='map'>
-        Map here
+      <div id="map">
+        <sf-vehicle />
       </div>
     );
   }
