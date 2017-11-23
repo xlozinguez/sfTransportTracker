@@ -4,7 +4,6 @@ import Stop from "./stop";
 import Vehicle from "./vehicle";
 
 export default class Route {
-  public id: string;
   public tag: string;
   public title: string;
   public shortTitle: string;
@@ -17,8 +16,7 @@ export default class Route {
   @observable public stops: Stop[];
   @observable public vehicleList: Vehicle[];
 
-  constructor({ id, tag, title, shortTitle, color, oppositeColor, latMin, latMax, lonMin, lonMax }) {
-    this.id = id;
+  constructor({ tag, title, shortTitle, color, oppositeColor, latMin, latMax, lonMin, lonMax }) {
     this.tag = tag;
     this.title = title;
     this.shortTitle = shortTitle;

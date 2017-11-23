@@ -22,7 +22,7 @@ export class SfRouteList {
   public renderRoutes = () => {
     return this.routes ? this.routes.map((r) => {
       return (
-        <li> {r.id} - { r.tag } - { r.title } </li>
+        <li> { r.tag } - { r.title } </li>
       );
     }) : null
   }

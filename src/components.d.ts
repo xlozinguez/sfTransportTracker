@@ -62,8 +62,8 @@ declare global {
   namespace JSXElements {
     export interface SfMapAttributes extends HTMLAttributes {
       
-        longitude?: string,
         latitude?: string,
+        longitude?: string,
         radius?: string
     }
   }

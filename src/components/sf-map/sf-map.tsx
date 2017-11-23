@@ -1,25 +1,42 @@
-import { Component, Prop, Element, State } from '@stencil/core';
+import { Component, Element, Prop, State } from '@stencil/core';
 
 const GMAPS_API_KEY = 'FOO';
 
 @Component({
-  tag: 'sf-map',
-  styleUrl: 'sf-map.scss'
+  styleUrl: 'sf-map.scss',
+  tag: 'sf-map'
 })
 export class SfMap {
-  @Prop() longitude: string;
-  @Prop() latitude: string;
-  @Prop() radius: string;
+  @Prop() public latitude: string;
+  @Prop() public longitude: string;
+  @Prop() public radius: string;
 
-  @State() mapReady: boolean = false;
+  @State() public mapReady: boolean = false;
 
-  @Element() mapEl: HTMLElement;
+  @Element() public mapEl: HTMLElement;
 
-  map: null;
+  public map: null;
+
+
+  public componentWillLoad() {
+    this.initMap();
+  }
+
+  public componentDidLoad() {
+    this.loadMap();
+  }
+
+  public render() {
+    return (
+      <div id="map">
+        <sf-vehicle />
+      </div>
+    );
+  }
 
   // Initialize google map script
-  _initMap = () => {
-    var gMapsScript = document.createElement('script');
+  private initMap = () => {
+    const gMapsScript = document.createElement('script');
     gMapsScript.setAttribute('async', '');
     gMapsScript.setAttribute('defer', '');
     gMapsScript.setAttribute('src', `https://maps.googleapis.com/maps/api/js?key=${GMAPS_API_KEY}`);
@@ -27,40 +44,24 @@ export class SfMap {
   }
 
   // Load map and set to the current position
-  _loadMap = () => {
-    var timeout = null;
+  private loadMap = () => {
+    let timeout = null;
     // Check for map being loaded
     if (!window.hasOwnProperty('google')) {
       if (timeout !== null) {
         clearTimeout(timeout);
       }
       timeout = window.setTimeout(()=>{
-        this._loadMap();
+        this.loadMap();
       }, 1000);
     } else {
       clearTimeout(timeout);
       // Create the map and set the current position
-      let latlng = new (window as any).google.maps.LatLng(+this.longitude,+this.latitude);
+      const latlng = new (window as any).google.maps.LatLng(+this.longitude,+this.latitude);
       this.map = new (window as any).google.maps.Map(this.mapEl, {
         center: latlng,
         zoom: 13
       });
     }
-  }
-
-  componentWillLoad() {
-    this._initMap();
-  }
-
-  componentDidLoad() {
-    this._loadMap();
-  }
-
-  render() {
-    return (
-      <div id="map">
-        <sf-vehicle />
-      </div>
-    );
   }
 }
