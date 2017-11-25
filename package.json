@@ -19,6 +19,7 @@
     "@stencil/core": "next",
     "@stencil/router": "latest",
     "mobx": "^3.3.1",
+    "mobx-observer": "^0.1.1",
     "react-xml-parser": "^1.0.2",
     "xml-reader": "^2.4.3"
   },

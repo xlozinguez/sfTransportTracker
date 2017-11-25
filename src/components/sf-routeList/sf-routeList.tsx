@@ -1,37 +1,45 @@
-import { Component, State } from '@stencil/core';
+import { Component, Prop, State } from '@stencil/core';
 
+import RouteList from '../../stores/routeList';
+// import { RootStore } from '../../stores/rootStore';
 import Route from '../../models/route';
-import routeListStore from '../../stores/routeList';
 
-import {autorun, useStrict} from 'mobx';
+import { useStrict, autorun, computed } from 'mobx';
+import { observer } from 'mobx-observer'
 
 useStrict(true);
 
+@observer
 @Component({
   styleUrl: 'sf-routeList.scss',
   tag: 'sf-routeList'
 })
 export class SfRouteList {
-
-  @State() public routeList: Route[];
+  @Prop() public routes: Route[];
   
-  constructor() {
-    autorun(() => {
-      this.routeList = routeListStore.routes.slice();
-    })
-  }
+  // @State() public routes: Route[] = [];
+  // // @State() public routeListLoaded: IObservable<Boolean>;
 
-  public renderRoutes = () => {
-    return this.routeList ? this.routeList.map((r) => {
-      return (
-        <li> { r.tag } - { r.title } - {r.stops.length} </li>
-      );
+  // constructor() {
+  // //   // this.routeListLoaded = observable(this.rootStore.routeList.routeListLoaded);
+  //   autorun(() => {
+  // //     if (this.routeList) {
+  // //       this.routes = [...this.routeList.routes];
+  // //     }
+  //     debugger;
+  //   })
+  // }
+
+  // @computed public get routes() {
+  //   // debugger;
+  //   return this.routeList.routes;
+  // }
+  
+  private renderRoutes = () => {
+    return this.routes ? this.routes.map((r: Route) => {
+      return (<li> { r.tag } - { r.title } - {r.stops.length} </li>)
     }) : null
   }
-  
-  public componentWillLoad() {
-    routeListStore.getRoutes();
-  };
 
   public render() {
     return (

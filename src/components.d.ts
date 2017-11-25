@@ -68,7 +68,7 @@ declare global {
         
           latitude?: string,
           longitude?: string,
-          vehicleList?: Vehicle[]
+          vehicleList?: any
       }
   }
 }
@@ -101,6 +101,7 @@ declare global {
           mode?: string,
           color?: string,
         
+          routes?: Route[]
       }
   }
 }

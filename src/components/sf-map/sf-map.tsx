@@ -2,29 +2,37 @@ import { Component, Element, Prop, State } from '@stencil/core';
 
 const GMAPS_API_KEY = 'FOO';
 
-import Vehicle from "../../models/vehicle";
+import Vehicle from '../../models/vehicle';
+import VehicleList from '../../stores/vehicleList';
+// import { RootStore } from '../../stores/rootStore';
 
-import {autorun} from 'mobx';
+import {autorun, action, observable} from 'mobx';
 
 @Component({
   styleUrl: 'sf-map.scss',
   tag: 'sf-map'
 })
 export class SfMap {
-  // @State() public vehicles: Vehicle[];
-
   @Prop() public latitude: string;
   @Prop() public longitude: string;
-  @Prop() public vehicleList: Vehicle[];
+  @Prop() public vehicleList: VehicleList;
+
+  @State() public vehicles: Vehicle[] = [];
 
   @Element() public mapEl: HTMLElement;
 
+  @observable public mapLoaded: boolean = false;
 
+  @action.bound public toggleMapState() {
+    this.mapLoaded = !this.mapLoaded;
+  }
 
   constructor() {
     autorun(() => {
-      // this.vehicles = VehicleList.vehicles.slice();
-      this.displayVehicles();
+      if (this.mapLoaded && this.vehicleList) {
+        this.vehicles = [...this.vehicleList.vehicles];
+        this.displayVehicles();
+      }
     })
   }
   
@@ -76,26 +84,22 @@ export class SfMap {
         center: latlng,
         zoom: 13
       });
-      this.displayVehicles();
+      this.toggleMapState();
     }
   }
 
   // display vehicles on the map
   private displayVehicles = () => {
-    console.log('SfMap: displayVehicles');
-    if(this.map) {
-      console.log(`displaying ${this.vehicleList.length} vehicles on ${this.map}`);
-      this.vehicleList.forEach(v => {
-        console.log('setting marker for ', v);
-        new (window as any).google.maps.Marker({
-          position: {
-            lat: +v.lat,
-            lng: +v.lon
-          },
-          label: `${v.id}`,
-          map: this.map
-        })
-      });
-    }
+    console.log('SfMap: displayVehicles', );
+    this.vehicles.forEach(v => {
+      new (window as any).google.maps.Marker({
+        position: {
+          lat: +v.lat,
+          lng: +v.lon
+        },
+        label: `${v.id}`,
+        map: this.map
+      })
+    });
   }
 }

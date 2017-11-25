@@ -1,17 +1,21 @@
 import { createTransformer, observable } from "mobx";
-
+import { RootStore } from "./rootStore";
 import Vehicle from "../models/vehicle";
 
 import nextBusService from '../service/nextBus-service';
 
 export default class VehicleList {
+  public rootStore: RootStore;
   @observable public vehicles: Vehicle[] = [];
 
   @observable public getVehiclesForRoute = createTransformer(routeTag => {
     return this.vehicles.filter(v => v.routeTag === routeTag);
   });
 
-  constructor() {
+  constructor(rootStore: RootStore) {
+
+    this.rootStore = rootStore;
+
     nextBusService.getVehicleLocations('38')
         .then((vehicles: Vehicle[]) => {
           console.log('VehicleList: getVehicleLocations: ', vehicles);
