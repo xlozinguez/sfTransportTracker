@@ -11,7 +11,7 @@ class RouteList {
     return this.routes.filter(r => r.tag === routeTag);
   });
 
-  @action public loadRoutes() {
+  @action public getRoutes() {
     nextBusService.getRoutes()
       .then(
         action("nextBusService-getRoutes-callback", (routes) => {

@@ -2,16 +2,14 @@ export default class Stop {
   public id: string;
   public tag: string;
   public title: string;
-  public shortTitle: string;
   public lat: string;
-  public long: string;
+  public lon: string;
 
-  constructor({ id, tag, title, shortTitle, lat, long }) {
+  constructor({ id, tag, title, lat, lon }) {
     this.id = id;
     this.tag = tag;
     this.title = title;
-    this.shortTitle = shortTitle;
     this.lat = lat;
-    this.long = long;
+    this.lon = lon;
   }
 }

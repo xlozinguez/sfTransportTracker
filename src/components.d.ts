@@ -11,28 +11,30 @@ import {
   SfApp as SfApp
 } from './components/sf-app/sf-app';
 
+interface HTMLSfAppElement extends SfApp, HTMLElement {
+}
+declare var HTMLSfAppElement: {
+  prototype: HTMLSfAppElement;
+  new (): HTMLSfAppElement;
+};
 declare global {
-  interface HTMLSfAppElement extends SfApp, HTMLElement {
-  }
-  var HTMLSfAppElement: {
-    prototype: HTMLSfAppElement;
-    new (): HTMLSfAppElement;
-  };
   interface HTMLElementTagNameMap {
-    "sf-app": HTMLSfAppElement;
+      "sf-app": HTMLSfAppElement;
   }
   interface ElementTagNameMap {
-    "sf-app": HTMLSfAppElement;
+      "sf-app": HTMLSfAppElement;
   }
   namespace JSX {
-    interface IntrinsicElements {
-      "sf-app": JSXElements.SfAppAttributes;
-    }
+      interface IntrinsicElements {
+          "sf-app": JSXElements.SfAppAttributes;
+      }
   }
   namespace JSXElements {
-    export interface SfAppAttributes extends HTMLAttributes {
-      
-    }
+      export interface SfAppAttributes extends HTMLAttributes {
+          mode?: string,
+          color?: string,
+        
+      }
   }
 }
 
@@ -41,31 +43,33 @@ import {
   SfMap as SfMap
 } from './components/sf-map/sf-map';
 
+interface HTMLSfMapElement extends SfMap, HTMLElement {
+}
+declare var HTMLSfMapElement: {
+  prototype: HTMLSfMapElement;
+  new (): HTMLSfMapElement;
+};
 declare global {
-  interface HTMLSfMapElement extends SfMap, HTMLElement {
-  }
-  var HTMLSfMapElement: {
-    prototype: HTMLSfMapElement;
-    new (): HTMLSfMapElement;
-  };
   interface HTMLElementTagNameMap {
-    "sf-map": HTMLSfMapElement;
+      "sf-map": HTMLSfMapElement;
   }
   interface ElementTagNameMap {
-    "sf-map": HTMLSfMapElement;
+      "sf-map": HTMLSfMapElement;
   }
   namespace JSX {
-    interface IntrinsicElements {
-      "sf-map": JSXElements.SfMapAttributes;
-    }
+      interface IntrinsicElements {
+          "sf-map": JSXElements.SfMapAttributes;
+      }
   }
   namespace JSXElements {
-    export interface SfMapAttributes extends HTMLAttributes {
-      
-        latitude?: string,
-        longitude?: string,
-        radius?: string
-    }
+      export interface SfMapAttributes extends HTMLAttributes {
+          mode?: string,
+          color?: string,
+        
+          latitude?: string,
+          longitude?: string,
+          vehicleList?: Vehicle[]
+      }
   }
 }
 
@@ -74,28 +78,30 @@ import {
   SfRouteList as SfRoutelist
 } from './components/sf-routeList/sf-routeList';
 
+interface HTMLSfRoutelistElement extends SfRoutelist, HTMLElement {
+}
+declare var HTMLSfRoutelistElement: {
+  prototype: HTMLSfRoutelistElement;
+  new (): HTMLSfRoutelistElement;
+};
 declare global {
-  interface HTMLSfRoutelistElement extends SfRoutelist, HTMLElement {
-  }
-  var HTMLSfRoutelistElement: {
-    prototype: HTMLSfRoutelistElement;
-    new (): HTMLSfRoutelistElement;
-  };
   interface HTMLElementTagNameMap {
-    "sf-routelist": HTMLSfRoutelistElement;
+      "sf-routelist": HTMLSfRoutelistElement;
   }
   interface ElementTagNameMap {
-    "sf-routelist": HTMLSfRoutelistElement;
+      "sf-routelist": HTMLSfRoutelistElement;
   }
   namespace JSX {
-    interface IntrinsicElements {
-      "sf-routelist": JSXElements.SfRoutelistAttributes;
-    }
+      interface IntrinsicElements {
+          "sf-routelist": JSXElements.SfRoutelistAttributes;
+      }
   }
   namespace JSXElements {
-    export interface SfRoutelistAttributes extends HTMLAttributes {
-      
-    }
+      export interface SfRoutelistAttributes extends HTMLAttributes {
+          mode?: string,
+          color?: string,
+        
+      }
   }
 }
 
@@ -104,28 +110,30 @@ import {
   SfVehicle as SfVehicle
 } from './components/sf-vehicle/sf-vehicle';
 
+interface HTMLSfVehicleElement extends SfVehicle, HTMLElement {
+}
+declare var HTMLSfVehicleElement: {
+  prototype: HTMLSfVehicleElement;
+  new (): HTMLSfVehicleElement;
+};
 declare global {
-  interface HTMLSfVehicleElement extends SfVehicle, HTMLElement {
-  }
-  var HTMLSfVehicleElement: {
-    prototype: HTMLSfVehicleElement;
-    new (): HTMLSfVehicleElement;
-  };
   interface HTMLElementTagNameMap {
-    "sf-vehicle": HTMLSfVehicleElement;
+      "sf-vehicle": HTMLSfVehicleElement;
   }
   interface ElementTagNameMap {
-    "sf-vehicle": HTMLSfVehicleElement;
+      "sf-vehicle": HTMLSfVehicleElement;
   }
   namespace JSX {
-    interface IntrinsicElements {
-      "sf-vehicle": JSXElements.SfVehicleAttributes;
-    }
+      interface IntrinsicElements {
+          "sf-vehicle": JSXElements.SfVehicleAttributes;
+      }
   }
   namespace JSXElements {
-    export interface SfVehicleAttributes extends HTMLAttributes {
-      
-    }
+      export interface SfVehicleAttributes extends HTMLAttributes {
+          mode?: string,
+          color?: string,
+        
+      }
   }
 }
 

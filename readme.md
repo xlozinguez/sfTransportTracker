@@ -36,7 +36,7 @@ Using [Google Maps](https://developers.google.com/maps/) and [NextBus](http://ww
     - sf-stop
 
 ### Services
-- sf-nextbus
+- nextBus-service
 
 ## App Workflow
 

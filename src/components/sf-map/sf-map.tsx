@@ -2,21 +2,33 @@ import { Component, Element, Prop, State } from '@stencil/core';
 
 const GMAPS_API_KEY = 'FOO';
 
+import Vehicle from "../../models/vehicle";
+
+import {autorun} from 'mobx';
+
 @Component({
   styleUrl: 'sf-map.scss',
   tag: 'sf-map'
 })
 export class SfMap {
+  // @State() public vehicles: Vehicle[];
+
   @Prop() public latitude: string;
   @Prop() public longitude: string;
-  @Prop() public radius: string;
-
-  @State() public mapReady: boolean = false;
+  @Prop() public vehicleList: Vehicle[];
 
   @Element() public mapEl: HTMLElement;
 
-  public map: null;
 
+
+  constructor() {
+    autorun(() => {
+      // this.vehicles = VehicleList.vehicles.slice();
+      this.displayVehicles();
+    })
+  }
+  
+  public map: null;
 
   public componentWillLoad() {
     this.initMap();
@@ -29,13 +41,14 @@ export class SfMap {
   public render() {
     return (
       <div id="map">
-        <sf-vehicle />
+        The map could not be loaded.
       </div>
     );
   }
-
+  
   // Initialize google map script
   private initMap = () => {
+    console.log('SfMap: initMap');
     const gMapsScript = document.createElement('script');
     gMapsScript.setAttribute('async', '');
     gMapsScript.setAttribute('defer', '');
@@ -45,6 +58,7 @@ export class SfMap {
 
   // Load map and set to the current position
   private loadMap = () => {
+    console.log('SfMap: loadMap');
     let timeout = null;
     // Check for map being loaded
     if (!window.hasOwnProperty('google')) {
@@ -61,6 +75,26 @@ export class SfMap {
       this.map = new (window as any).google.maps.Map(this.mapEl, {
         center: latlng,
         zoom: 13
+      });
+      this.displayVehicles();
+    }
+  }
+
+  // display vehicles on the map
+  private displayVehicles = () => {
+    console.log('SfMap: displayVehicles');
+    if(this.map) {
+      console.log(`displaying ${this.vehicleList.length} vehicles on ${this.map}`);
+      this.vehicleList.forEach(v => {
+        console.log('setting marker for ', v);
+        new (window as any).google.maps.Marker({
+          position: {
+            lat: +v.lat,
+            lng: +v.lon
+          },
+          label: `${v.id}`,
+          map: this.map
+        })
       });
     }
   }

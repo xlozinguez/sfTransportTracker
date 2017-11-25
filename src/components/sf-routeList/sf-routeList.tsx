@@ -1,31 +1,37 @@
 import { Component, State } from '@stencil/core';
 
 import Route from '../../models/route';
-import RouteList from '../../stores/routeList';
+import routeListStore from '../../stores/routeList';
 
-import {autorun} from 'mobx';
+import {autorun, useStrict} from 'mobx';
+
+useStrict(true);
 
 @Component({
   styleUrl: 'sf-routeList.scss',
   tag: 'sf-routeList'
 })
 export class SfRouteList {
-  
-  @State() public routes: Route[];
+
+  @State() public routeList: Route[];
   
   constructor() {
     autorun(() => {
-      this.routes = RouteList.routes.slice()
+      this.routeList = routeListStore.routes.slice();
     })
   }
 
   public renderRoutes = () => {
-    return this.routes ? this.routes.map((r) => {
+    return this.routeList ? this.routeList.map((r) => {
       return (
-        <li> { r.tag } - { r.title } </li>
+        <li> { r.tag } - { r.title } - {r.stops.length} </li>
       );
     }) : null
   }
+  
+  public componentWillLoad() {
+    routeListStore.getRoutes();
+  };
 
   public render() {
     return (
